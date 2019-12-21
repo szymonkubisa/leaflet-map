@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>2.BerlowaMostysza</name>
+		<desc>Length: 11.95 km (7.422 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.5740032" lon="20.9355426"></trkpt>
+			<trkpt lat="49.5724169" lon="20.9357357"></trkpt>
+			<trkpt lat="49.5704549" lon="20.9354568"></trkpt>
+			<trkpt lat="49.5690772" lon="20.9346843"></trkpt>
+			<trkpt lat="49.568284" lon="20.9332037"></trkpt>
+			<trkpt lat="49.5672125" lon="20.9258866"></trkpt>
+			<trkpt lat="49.5667393" lon="20.9237409"></trkpt>
+			<trkpt lat="49.5664331" lon="20.9220028"></trkpt>
+			<trkpt lat="49.5662522" lon="20.9220028"></trkpt>
+			<trkpt lat="49.5653198" lon="20.9262943"></trkpt>
+			<trkpt lat="49.5647074" lon="20.9261656"></trkpt>
+			<trkpt lat="49.5642203" lon="20.9264874"></trkpt>
+			<trkpt lat="49.5605738" lon="20.9256506"></trkpt>
+			<trkpt lat="49.5605738" lon="20.9265947"></trkpt>
+			<trkpt lat="49.5608522" lon="20.9276032"></trkpt>
+			<trkpt lat="49.5606295" lon="20.9308004"></trkpt>
+			<trkpt lat="49.5599197" lon="20.9327316"></trkpt>
+			<trkpt lat="49.5599197" lon="20.9357357"></trkpt>
+			<trkpt lat="49.5605182" lon="20.9377742"></trkpt>
+			<trkpt lat="49.560379" lon="20.9392118"></trkpt>
+			<trkpt lat="49.5608383" lon="20.9427738"></trkpt>
+			<trkpt lat="49.5613672" lon="20.9451127"></trkpt>
+			<trkpt lat="49.5619935" lon="20.9460998"></trkpt>
+			<trkpt lat="49.5623971" lon="20.9473014"></trkpt>
+			<trkpt lat="49.5624667" lon="20.9481168"></trkpt>
+			<trkpt lat="49.5626755" lon="20.9492111"></trkpt>
+			<trkpt lat="49.5630234" lon="20.9499836"></trkpt>
+			<trkpt lat="49.5632183" lon="20.9507775"></trkpt>
+			<trkpt lat="49.5631208" lon="20.9518719"></trkpt>
+			<trkpt lat="49.5635801" lon="20.9526014"></trkpt>
+			<trkpt lat="49.5640672" lon="20.9518504"></trkpt>
+			<trkpt lat="49.5642342" lon="20.9547901"></trkpt>
+			<trkpt lat="49.5647492" lon="20.9604764"></trkpt>
+			<trkpt lat="49.5648188" lon="20.9645534"></trkpt>
+			<trkpt lat="49.5648188" lon="20.9657764"></trkpt>
+			<trkpt lat="49.5644987" lon="20.9669566"></trkpt>
+			<trkpt lat="49.5635801" lon="20.9688663"></trkpt>
+			<trkpt lat="49.5631069" lon="20.9703255"></trkpt>
+			<trkpt lat="49.5628007" lon="20.9718275"></trkpt>
+			<trkpt lat="49.5628007" lon="20.9735441"></trkpt>
+			<trkpt lat="49.5628007" lon="20.9776211"></trkpt>
+			<trkpt lat="49.5628146" lon="20.9786081"></trkpt>
+			<trkpt lat="49.5631765" lon="20.9802818"></trkpt>
+			<trkpt lat="49.5632739" lon="20.9820843"></trkpt>
+			<trkpt lat="49.5608105" lon="20.9834576"></trkpt>
+			<trkpt lat="49.5593768" lon="20.9840584"></trkpt>
+			<trkpt lat="49.557985" lon="20.9842515"></trkpt>
+			<trkpt lat="49.5550618" lon="20.9846592"></trkpt>
+			<trkpt lat="49.5535585" lon="20.9848738"></trkpt>
+			<trkpt lat="49.5530713" lon="20.9848523"></trkpt>
+			<trkpt lat="49.5515121" lon="20.9846163"></trkpt>
+			<trkpt lat="49.5517627" lon="20.9829855"></trkpt>
+			<trkpt lat="49.5514286" lon="20.9817624"></trkpt>
+			<trkpt lat="49.5495353" lon="20.9775138"></trkpt>
+			<trkpt lat="49.548519" lon="20.9757543"></trkpt>
+			<trkpt lat="49.5480875" lon="20.9745097"></trkpt>
+			<trkpt lat="49.5472521" lon="20.9729004"></trkpt>
+			<trkpt lat="49.5462497" lon="20.9713984"></trkpt>
+			<trkpt lat="49.5452055" lon="20.9703898"></trkpt>
+			<trkpt lat="49.5440499" lon="20.9693384"></trkpt>
+			<trkpt lat="49.5434234" lon="20.9685016"></trkpt>
+			<trkpt lat="49.5431171" lon="20.9674716"></trkpt>
+			<trkpt lat="49.5421842" lon="20.9661627"></trkpt>
+			<trkpt lat="49.5412374" lon="20.9653902"></trkpt>
+			<trkpt lat="49.540569" lon="20.9643817"></trkpt>
+			<trkpt lat="49.5402488" lon="20.9634161"></trkpt>
+			<trkpt lat="49.53965" lon="20.9640598"></trkpt>
+			<trkpt lat="49.53965" lon="20.9649825"></trkpt>
+			<trkpt lat="49.5394133" lon="20.965755"></trkpt>
+			<trkpt lat="49.5395108" lon="20.9665489"></trkpt>
+			<trkpt lat="49.5406804" lon="20.9687591"></trkpt>
+			<trkpt lat="49.5409867" lon="20.9704542"></trkpt>
+			<trkpt lat="49.5406665" lon="20.9730077"></trkpt>
+			<trkpt lat="49.5408197" lon="20.9747028"></trkpt>
+			<trkpt lat="49.5407918" lon="20.9768915"></trkpt>
+			<trkpt lat="49.540945" lon="20.9795308"></trkpt>
+			<trkpt lat="49.5410007" lon="20.9808826"></trkpt>
+			<trkpt lat="49.5418083" lon="20.981698"></trkpt>
+			<trkpt lat="49.542045" lon="20.9833503"></trkpt>
+			<trkpt lat="49.5424627" lon="20.9848309"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>3.MostyszPodchelmieN</name>
+		<desc>Length: 15.27 km (9.489 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.5424696" lon="20.984745"></trkpt>
+			<trkpt lat="49.5432285" lon="20.9851527"></trkpt>
+			<trkpt lat="49.5435069" lon="20.9850883"></trkpt>
+			<trkpt lat="49.5440638" lon="20.9847343"></trkpt>
+			<trkpt lat="49.5447878" lon="20.9845841"></trkpt>
+			<trkpt lat="49.5452055" lon="20.9845519"></trkpt>
+			<trkpt lat="49.5456023" lon="20.9851098"></trkpt>
+			<trkpt lat="49.5458808" lon="20.9852815"></trkpt>
+			<trkpt lat="49.5471825" lon="20.9857213"></trkpt>
+			<trkpt lat="49.5473148" lon="20.9859252"></trkpt>
+			<trkpt lat="49.5471686" lon="20.9867835"></trkpt>
+			<trkpt lat="49.5472104" lon="20.9880173"></trkpt>
+			<trkpt lat="49.5475027" lon="20.9889936"></trkpt>
+			<trkpt lat="49.5479343" lon="20.9894335"></trkpt>
+			<trkpt lat="49.5487209" lon="20.9896159"></trkpt>
+			<trkpt lat="49.5494518" lon="20.9894872"></trkpt>
+			<trkpt lat="49.5501409" lon="20.9893262"></trkpt>
+			<trkpt lat="49.5507882" lon="20.988822"></trkpt>
+			<trkpt lat="49.5514843" lon="20.9882855"></trkpt>
+			<trkpt lat="49.5519854" lon="20.9878993"></trkpt>
+			<trkpt lat="49.5526536" lon="20.9878993"></trkpt>
+			<trkpt lat="49.5532801" lon="20.9880495"></trkpt>
+			<trkpt lat="49.5537394" lon="20.9879851"></trkpt>
+			<trkpt lat="49.5537534" lon="20.9883714"></trkpt>
+			<trkpt lat="49.552765" lon="20.9886503"></trkpt>
+			<trkpt lat="49.5511363" lon="20.9896803"></trkpt>
+			<trkpt lat="49.5510527" lon="20.9900451"></trkpt>
+			<trkpt lat="49.5515121" lon="20.9905815"></trkpt>
+			<trkpt lat="49.5515539" lon="20.9912038"></trkpt>
+			<trkpt lat="49.5514425" lon="20.9920835"></trkpt>
+			<trkpt lat="49.5510945" lon="20.9930921"></trkpt>
+			<trkpt lat="49.5504124" lon="20.9948945"></trkpt>
+			<trkpt lat="49.5501339" lon="20.996139"></trkpt>
+			<trkpt lat="49.5498137" lon="20.9982634"></trkpt>
+			<trkpt lat="49.5502035" lon="20.999701"></trkpt>
+			<trkpt lat="49.5516096" lon="20.9981561"></trkpt>
+			<trkpt lat="49.5536142" lon="20.9940362"></trkpt>
+			<trkpt lat="49.5539482" lon="20.99365"></trkpt>
+			<trkpt lat="49.5546164" lon="20.9932423"></trkpt>
+			<trkpt lat="49.5551593" lon="20.9930491"></trkpt>
+			<trkpt lat="49.5574978" lon="20.9928989"></trkpt>
+			<trkpt lat="49.5567601" lon="20.9942508"></trkpt>
+			<trkpt lat="49.5544772" lon="21.000495"></trkpt>
+			<trkpt lat="49.5554655" lon="21.0011816"></trkpt>
+			<trkpt lat="49.5584582" lon="21.0073614"></trkpt>
+			<trkpt lat="49.5633435" lon="21.0105157"></trkpt>
+			<trkpt lat="49.5637332" lon="21.0118461"></trkpt>
+			<trkpt lat="49.5639141" lon="21.0127473"></trkpt>
+			<trkpt lat="49.5641786" lon="21.0130477"></trkpt>
+			<trkpt lat="49.5644569" lon="21.0130906"></trkpt>
+			<trkpt lat="49.5665166" lon="21.0121894"></trkpt>
+			<trkpt lat="49.5680474" lon="21.0112453"></trkpt>
+			<trkpt lat="49.5693834" lon="21.0085845"></trkpt>
+			<trkpt lat="49.5721526" lon="21.0051727"></trkpt>
+			<trkpt lat="49.5724865" lon="21.0050869"></trkpt>
+			<trkpt lat="49.5737389" lon="21.0057092"></trkpt>
+			<trkpt lat="49.5740728" lon="21.0056233"></trkpt>
+			<trkpt lat="49.5747824" lon="21.0018682"></trkpt>
+			<trkpt lat="49.575659" lon="21.0023403"></trkpt>
+			<trkpt lat="49.5773287" lon="21.0019755"></trkpt>
+			<trkpt lat="49.57808" lon="21.0035849"></trkpt>
+			<trkpt lat="49.5787896" lon="21.0053229"></trkpt>
+			<trkpt lat="49.5805566" lon="21.0054946"></trkpt>
+			<trkpt lat="49.5809044" lon="21.0044646"></trkpt>
+			<trkpt lat="49.5816278" lon="21.0044861"></trkpt>
+			<trkpt lat="49.5814748" lon="21.0034776"></trkpt>
+			<trkpt lat="49.5828938" lon="21.0007524"></trkpt>
+			<trkpt lat="49.5833529" lon="20.9992933"></trkpt>
+			<trkpt lat="49.5853423" lon="20.9965038"></trkpt>
+			<trkpt lat="49.5861352" lon="20.9958816"></trkpt>
+			<trkpt lat="49.5854118" lon="20.9951305"></trkpt>
+			<trkpt lat="49.5851893" lon="20.9939933"></trkpt>
+			<trkpt lat="49.5854536" lon="20.9924483"></trkpt>
+			<trkpt lat="49.5859544" lon="20.9901094"></trkpt>
+			<trkpt lat="49.5859683" lon="20.9892726"></trkpt>
+			<trkpt lat="49.5858014" lon="20.9872985"></trkpt>
+			<trkpt lat="49.5854118" lon="20.9859467"></trkpt>
+			<trkpt lat="49.5845911" lon="20.9840798"></trkpt>
+			<trkpt lat="49.5838955" lon="20.9809685"></trkpt>
+			<trkpt lat="49.5840207" lon="20.9788656"></trkpt>
+			<trkpt lat="49.5837981" lon="20.9779215"></trkpt>
+			<trkpt lat="49.5833112" lon="20.9770632"></trkpt>
+			<trkpt lat="49.5834086" lon="20.9757972"></trkpt>
+			<trkpt lat="49.5832694" lon="20.9749389"></trkpt>
+			<trkpt lat="49.5847719" lon="20.9705615"></trkpt>
+			<trkpt lat="49.5858987" lon="20.9702611"></trkpt>
+			<trkpt lat="49.5874568" lon="20.9702182"></trkpt>
+			<trkpt lat="49.5885" lon="20.9696603"></trkpt>
+			<trkpt lat="49.5891538" lon="20.9711838"></trkpt>
+			<trkpt lat="49.5919358" lon="20.9691453"></trkpt>
+			<trkpt lat="49.5917828" lon="20.970068"></trkpt>
+			<trkpt lat="49.5921027" lon="20.9706259"></trkpt>
+			<trkpt lat="49.5924783" lon="20.9722137"></trkpt>
+			<trkpt lat="49.5936188" lon="20.9750247"></trkpt>
+			<trkpt lat="49.5943699" lon="20.9793377"></trkpt>
+			<trkpt lat="49.5948011" lon="20.981462"></trkpt>
+			<trkpt lat="49.5963032" lon="20.9809899"></trkpt>
+			<trkpt lat="49.5970403" lon="20.9803247"></trkpt>
+			<trkpt lat="49.5977635" lon="20.9791231"></trkpt>
+			<trkpt lat="49.5986675" lon="20.9783077"></trkpt>
+			<trkpt lat="49.5984311" lon="20.9875989"></trkpt>
+			<trkpt lat="49.5997801" lon="20.9890151"></trkpt>
+			<trkpt lat="49.6009344" lon="20.9926629"></trkpt>
+			<trkpt lat="49.6027144" lon="20.9927273"></trkpt>
+			<trkpt lat="49.6042997" lon="20.9944868"></trkpt>
+			<trkpt lat="49.6055791" lon="20.9942937"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>4.PodchelmieNPolna</name>
+		<desc>Length: 11.03 km (6.856 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6057876" lon="20.9945726"></trkpt>
+			<trkpt lat="49.6080959" lon="20.9961605"></trkpt>
+			<trkpt lat="49.6087911" lon="20.9972763"></trkpt>
+			<trkpt lat="49.6091248" lon="20.9983063"></trkpt>
+			<trkpt lat="49.6116832" lon="21.0008812"></trkpt>
+			<trkpt lat="49.6124062" lon="21.0031557"></trkpt>
+			<trkpt lat="49.6137687" lon="21.003499"></trkpt>
+			<trkpt lat="49.6182176" lon="21.006074"></trkpt>
+			<trkpt lat="49.6176337" lon="21.0074902"></trkpt>
+			<trkpt lat="49.6169386" lon="21.0096788"></trkpt>
+			<trkpt lat="49.6167439" lon="21.0113096"></trkpt>
+			<trkpt lat="49.618718" lon="21.0124683"></trkpt>
+			<trkpt lat="49.6195799" lon="21.0118246"></trkpt>
+			<trkpt lat="49.6212203" lon="21.0114384"></trkpt>
+			<trkpt lat="49.6247232" lon="21.0148287"></trkpt>
+			<trkpt lat="49.6271696" lon="21.0160303"></trkpt>
+			<trkpt lat="49.6276978" lon="21.0153866"></trkpt>
+			<trkpt lat="49.6290321" lon="21.016202"></trkpt>
+			<trkpt lat="49.629727" lon="21.0143995"></trkpt>
+			<trkpt lat="49.6295602" lon="21.0124254"></trkpt>
+			<trkpt lat="49.6298104" lon="21.0108805"></trkpt>
+			<trkpt lat="49.6303386" lon="21.0083485"></trkpt>
+			<trkpt lat="49.6309223" lon="21.0071898"></trkpt>
+			<trkpt lat="49.6309223" lon="21.0059023"></trkpt>
+			<trkpt lat="49.6317006" lon="21.0045719"></trkpt>
+			<trkpt lat="49.6335907" lon="21.0034561"></trkpt>
+			<trkpt lat="49.6348415" lon="21.0024691"></trkpt>
+			<trkpt lat="49.6355641" lon="21.0031128"></trkpt>
+			<trkpt lat="49.636787" lon="21.0047865"></trkpt>
+			<trkpt lat="49.6383156" lon="21.0066748"></trkpt>
+			<trkpt lat="49.6392884" lon="21.0103226"></trkpt>
+			<trkpt lat="49.6391494" lon="21.0128975"></trkpt>
+			<trkpt lat="49.6408725" lon="21.0138845"></trkpt>
+			<trkpt lat="49.6446241" lon="21.0144854"></trkpt>
+			<trkpt lat="49.6454856" lon="21.0150003"></trkpt>
+			<trkpt lat="49.6458468" lon="21.0154295"></trkpt>
+			<trkpt lat="49.6490979" lon="21.015687"></trkpt>
+			<trkpt lat="49.6504872" lon="21.0169315"></trkpt>
+			<trkpt lat="49.6523488" lon="21.0172749"></trkpt>
+			<trkpt lat="49.6529878" lon="21.0168028"></trkpt>
+			<trkpt lat="49.6540436" lon="21.0168028"></trkpt>
+			<trkpt lat="49.6548493" lon="21.018219"></trkpt>
+			<trkpt lat="49.6561551" lon="21.0181332"></trkpt>
+			<trkpt lat="49.6565441" lon="21.0168457"></trkpt>
+			<trkpt lat="49.6578776" lon="21.0150003"></trkpt>
+			<trkpt lat="49.6590444" lon="21.0122108"></trkpt>
+			<trkpt lat="49.6591555" lon="21.0117388"></trkpt>
+			<trkpt lat="49.6629057" lon="21.0102797"></trkpt>
+			<trkpt lat="49.6695999" lon="20.9892511"></trkpt>
+			<trkpt lat="49.6722939" lon="20.9875345"></trkpt>
+			<trkpt lat="49.6728216" lon="20.9876633"></trkpt>
+			<trkpt lat="49.6734048" lon="20.9879637"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>5PolnaKruzlowa</name>
+		<desc>Length: 17.59 km (10.93 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6734048" lon="20.9884357"></trkpt>
+			<trkpt lat="49.6786258" lon="20.9901524"></trkpt>
+			<trkpt lat="49.6788479" lon="20.9935856"></trkpt>
+			<trkpt lat="49.6831797" lon="20.9922123"></trkpt>
+			<trkpt lat="49.6842904" lon="20.9799385"></trkpt>
+			<trkpt lat="49.6816803" lon="20.970583"></trkpt>
+			<trkpt lat="49.6776816" lon="20.9711838"></trkpt>
+			<trkpt lat="49.6754044" lon="20.968008"></trkpt>
+			<trkpt lat="49.6718495" lon="20.9641457"></trkpt>
+			<trkpt lat="49.6696832" lon="20.9680939"></trkpt>
+			<trkpt lat="49.6689055" lon="20.9668064"></trkpt>
+			<trkpt lat="49.6683778" lon="20.9686089"></trkpt>
+			<trkpt lat="49.6666834" lon="20.9732437"></trkpt>
+			<trkpt lat="49.6660168" lon="20.9770203"></trkpt>
+			<trkpt lat="49.6649057" lon="20.9768486"></trkpt>
+			<trkpt lat="49.6639613" lon="20.9758615"></trkpt>
+			<trkpt lat="49.6608779" lon="20.9762478"></trkpt>
+			<trkpt lat="49.6594611" lon="20.9762049"></trkpt>
+			<trkpt lat="49.6579887" lon="20.9744883"></trkpt>
+			<trkpt lat="49.6570719" lon="20.9742737"></trkpt>
+			<trkpt lat="49.655655" lon="20.9760761"></trkpt>
+			<trkpt lat="49.6553772" lon="20.9777498"></trkpt>
+			<trkpt lat="49.6545993" lon="20.9785223"></trkpt>
+			<trkpt lat="49.6535157" lon="20.9785652"></trkpt>
+			<trkpt lat="49.65296" lon="20.9803247"></trkpt>
+			<trkpt lat="49.6506817" lon="20.9795523"></trkpt>
+			<trkpt lat="49.6507651" lon="20.9786081"></trkpt>
+			<trkpt lat="49.6502927" lon="20.9784794"></trkpt>
+			<trkpt lat="49.6490423" lon="20.9814405"></trkpt>
+			<trkpt lat="49.6474029" lon="20.9778357"></trkpt>
+			<trkpt lat="49.6451243" lon="20.9774923"></trkpt>
+			<trkpt lat="49.6449576" lon="20.9767628"></trkpt>
+			<trkpt lat="49.6409281" lon="20.976634"></trkpt>
+			<trkpt lat="49.6435959" lon="20.9662056"></trkpt>
+			<trkpt lat="49.6499315" lon="20.968051"></trkpt>
+			<trkpt lat="49.650904" lon="20.9691238"></trkpt>
+			<trkpt lat="49.6517931" lon="20.9666777"></trkpt>
+			<trkpt lat="49.6551827" lon="20.9664202"></trkpt>
+			<trkpt lat="49.6550994" lon="20.9565926"></trkpt>
+			<trkpt lat="49.653988" lon="20.9561634"></trkpt>
+			<trkpt lat="49.6556272" lon="20.9442759"></trkpt>
+			<trkpt lat="49.6585443" lon="20.9420443"></trkpt>
+			<trkpt lat="49.6613501" lon="20.9310579"></trkpt>
+			<trkpt lat="49.6649613" lon="20.9298134"></trkpt>
+			<trkpt lat="49.6600167" lon="20.924964"></trkpt>
+			<trkpt lat="49.6581276" lon="20.9234619"></trkpt>
+			<trkpt lat="49.6584054" lon="20.9210587"></trkpt>
+			<trkpt lat="49.6579609" lon="20.9154797"></trkpt>
+			<trkpt lat="49.6564051" lon="20.9131622"></trkpt>
+			<trkpt lat="49.6560995" lon="20.9114885"></trkpt>
+			<trkpt lat="49.6564329" lon="20.9091711"></trkpt>
+			<trkpt lat="49.6577109" lon="20.9068537"></trkpt>
+			<trkpt lat="49.6578776" lon="20.901618"></trkpt>
+			<trkpt lat="49.6588499" lon="20.8962965"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>6KruzlowaPtaszkowa</name>
+		<desc>Length: 10.85 km (6.742 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6588777" lon="20.8962965"></trkpt>
+			<trkpt lat="49.6589333" lon="20.895009"></trkpt>
+			<trkpt lat="49.6585721" lon="20.8920479"></trkpt>
+			<trkpt lat="49.6584054" lon="20.8898592"></trkpt>
+			<trkpt lat="49.6569886" lon="20.8873701"></trkpt>
+			<trkpt lat="49.6515153" lon="20.8829498"></trkpt>
+			<trkpt lat="49.6510151" lon="20.8815336"></trkpt>
+			<trkpt lat="49.64882" lon="20.8781433"></trkpt>
+			<trkpt lat="49.6477086" lon="20.8737659"></trkpt>
+			<trkpt lat="49.6465971" lon="20.8722639"></trkpt>
+			<trkpt lat="49.6479587" lon="20.8624792"></trkpt>
+			<trkpt lat="49.6509318" lon="20.8569002"></trkpt>
+			<trkpt lat="49.6485422" lon="20.8560419"></trkpt>
+			<trkpt lat="49.6477641" lon="20.8563423"></trkpt>
+			<trkpt lat="49.6462636" lon="20.8550978"></trkpt>
+			<trkpt lat="49.6441795" lon="20.8493471"></trkpt>
+			<trkpt lat="49.6427622" lon="20.8497334"></trkpt>
+			<trkpt lat="49.6413727" lon="20.8488321"></trkpt>
+			<trkpt lat="49.6387881" lon="20.8484459"></trkpt>
+			<trkpt lat="49.6375652" lon="20.8462572"></trkpt>
+			<trkpt lat="49.6335907" lon="20.843854"></trkpt>
+			<trkpt lat="49.6324789" lon="20.844326"></trkpt>
+			<trkpt lat="49.6315894" lon="20.8442831"></trkpt>
+			<trkpt lat="49.6307277" lon="20.8451843"></trkpt>
+			<trkpt lat="49.6304775" lon="20.8438969"></trkpt>
+			<trkpt lat="49.627531" lon="20.8460426"></trkpt>
+			<trkpt lat="49.626836" lon="20.8460426"></trkpt>
+			<trkpt lat="49.626419" lon="20.8465576"></trkpt>
+			<trkpt lat="49.6257518" lon="20.846386"></trkpt>
+			<trkpt lat="49.625307" lon="20.8472013"></trkpt>
+			<trkpt lat="49.623778" lon="20.8469868"></trkpt>
+			<trkpt lat="49.6224158" lon="20.8477163"></trkpt>
+			<trkpt lat="49.6219153" lon="20.8477163"></trkpt>
+			<trkpt lat="49.6188293" lon="20.8462572"></trkpt>
+			<trkpt lat="49.618718" lon="20.8469009"></trkpt>
+			<trkpt lat="49.6159654" lon="20.8469868"></trkpt>
+			<trkpt lat="49.613296" lon="20.8481455"></trkpt>
+			<trkpt lat="49.6125452" lon="20.8492184"></trkpt>
+			<trkpt lat="49.6125731" lon="20.8509779"></trkpt>
+			<trkpt lat="49.611711" lon="20.8514071"></trkpt>
+			<trkpt lat="49.6112383" lon="20.8508921"></trkpt>
+			<trkpt lat="49.6099313" lon="20.8515787"></trkpt>
+			<trkpt lat="49.6095142" lon="20.8513641"></trkpt>
+			<trkpt lat="49.6075397" lon="20.8518791"></trkpt>
+			<trkpt lat="49.6068166" lon="20.8538103"></trkpt>
+			<trkpt lat="49.6065107" lon="20.855484"></trkpt>
+			<trkpt lat="49.6055652" lon="20.8577585"></trkpt>
+			<trkpt lat="49.6051202" lon="20.8598185"></trkpt>
+			<trkpt lat="49.6068723" lon="20.8617926"></trkpt>
+			<trkpt lat="49.6048142" lon="20.8648396"></trkpt>
+			<trkpt lat="49.6053983" lon="20.8673286"></trkpt>
+			<trkpt lat="49.6051758" lon="20.8700752"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>7PtaszkowaJaworze</name>
+		<desc>Length: 5.437 km (3.378 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6053149" lon="20.8697319"></trkpt>
+			<trkpt lat="49.6040355" lon="20.8694744"></trkpt>
+			<trkpt lat="49.6032012" lon="20.8669853"></trkpt>
+			<trkpt lat="49.6007536" lon="20.8667278"></trkpt>
+			<trkpt lat="49.598139" lon="20.8668995"></trkpt>
+			<trkpt lat="49.5956356" lon="20.8677578"></trkpt>
+			<trkpt lat="49.5932433" lon="20.8721352"></trkpt>
+			<trkpt lat="49.5916854" lon="20.8737659"></trkpt>
+			<trkpt lat="49.5900163" lon="20.8753967"></trkpt>
+			<trkpt lat="49.5888478" lon="20.8789158"></trkpt>
+			<trkpt lat="49.5884027" lon="20.8816624"></trkpt>
+			<trkpt lat="49.5871785" lon="20.883379"></trkpt>
+			<trkpt lat="49.5857874" lon="20.8849239"></trkpt>
+			<trkpt lat="49.5855092" lon="20.887413"></trkpt>
+			<trkpt lat="49.5857318" lon="20.8898163"></trkpt>
+			<trkpt lat="49.5832834" lon="20.8929062"></trkpt>
+			<trkpt lat="49.5825043" lon="20.8947086"></trkpt>
+			<trkpt lat="49.5818922" lon="20.8978844"></trkpt>
+			<trkpt lat="49.5815583" lon="20.8992577"></trkpt>
+			<trkpt lat="49.5799444" lon="20.9021759"></trkpt>
+			<trkpt lat="49.5793879" lon="20.9054375"></trkpt>
+			<trkpt lat="49.5785531" lon="20.9071541"></trkpt>
+			<trkpt lat="49.5766052" lon="20.9090424"></trkpt>
+			<trkpt lat="49.5753808" lon="20.9115314"></trkpt>
+			<trkpt lat="49.5747129" lon="20.9135914"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2053</name>
+		<desc>Length: 172.5 m (565.9 ft)</desc>
+		<trkseg>
+			<trkpt lat="49.605213" lon="20.869746"></trkpt>
+			<trkpt lat="49.605213" lon="20.869744"></trkpt>
+			<trkpt lat="49.604714" lon="20.869634"></trkpt>
+			<trkpt lat="49.60453" lon="20.869612"></trkpt>
+			<trkpt lat="49.604329" lon="20.869424"></trkpt>
+			<trkpt lat="49.603789" lon="20.869139"></trkpt>
+			<trkpt lat="49.603746" lon="20.869089"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2102 Odcinek Ptaszkowa 1002 - CSZ</name>
+		<desc>Length: 0.428 km (0.266 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6037087" lon="20.8690989"></trkpt>
+			<trkpt lat="49.6035001" lon="20.8690882"></trkpt>
+			<trkpt lat="49.6032012" lon="20.8691847"></trkpt>
+			<trkpt lat="49.6028883" lon="20.8693671"></trkpt>
+			<trkpt lat="49.602631" lon="20.8694637"></trkpt>
+			<trkpt lat="49.6023459" lon="20.8695173"></trkpt>
+			<trkpt lat="49.6019565" lon="20.8695817"></trkpt>
+			<trkpt lat="49.6016297" lon="20.8696353"></trkpt>
+			<trkpt lat="49.6013099" lon="20.869689"></trkpt>
+			<trkpt lat="49.6010109" lon="20.8697104"></trkpt>
+			<trkpt lat="49.6008857" lon="20.8697855"></trkpt>
+			<trkpt lat="49.6008509" lon="20.8700323"></trkpt>
+			<trkpt lat="49.6008857" lon="20.8704293"></trkpt>
+			<trkpt lat="49.6009135" lon="20.8708584"></trkpt>
+			<trkpt lat="49.6009483" lon="20.8712661"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2056</name>
+		<desc>Length: 0.903 km (0.561 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.600973" lon="20.87123"></trkpt>
+			<trkpt lat="49.601115" lon="20.871172"></trkpt>
+			<trkpt lat="49.601536" lon="20.87103"></trkpt>
+			<trkpt lat="49.601883" lon="20.871089"></trkpt>
+			<trkpt lat="49.602086" lon="20.87126"></trkpt>
+			<trkpt lat="49.602293" lon="20.871625"></trkpt>
+			<trkpt lat="49.602522" lon="20.872069"></trkpt>
+			<trkpt lat="49.60243" lon="20.873211"></trkpt>
+			<trkpt lat="49.602317" lon="20.874268"></trkpt>
+			<trkpt lat="49.603903" lon="20.874601"></trkpt>
+			<trkpt lat="49.603277" lon="20.87659"></trkpt>
+			<trkpt lat="49.603267" lon="20.876685"></trkpt>
+			<trkpt lat="49.603215" lon="20.877183"></trkpt>
+			<trkpt lat="49.60313" lon="20.879354"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2105</name>
+		<desc>Length: 0.699 km (0.435 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.6031438" lon="20.8793423"></trkpt>
+			<trkpt lat="49.6040911" lon="20.8797607"></trkpt>
+			<trkpt lat="49.6043797" lon="20.879927"></trkpt>
+			<trkpt lat="49.6046317" lon="20.8804715"></trkpt>
+			<trkpt lat="49.6047308" lon="20.8805358"></trkpt>
+			<trkpt lat="49.6047725" lon="20.8805761"></trkpt>
+			<trkpt lat="49.6048108" lon="20.88067"></trkpt>
+			<trkpt lat="49.604929" lon="20.8808202"></trkpt>
+			<trkpt lat="49.604995" lon="20.8810535"></trkpt>
+			<trkpt lat="49.6050402" lon="20.8812734"></trkpt>
+			<trkpt lat="49.6050628" lon="20.8814666"></trkpt>
+			<trkpt lat="49.6051775" lon="20.8816838"></trkpt>
+			<trkpt lat="49.6052627" lon="20.8817831"></trkpt>
+			<trkpt lat="49.6054348" lon="20.8818582"></trkpt>
+			<trkpt lat="49.6055808" lon="20.881775"></trkpt>
+			<trkpt lat="49.6067245" lon="20.8809677"></trkpt>
+			<trkpt lat="49.6072129" lon="20.8806002"></trkpt>
+			<trkpt lat="49.6074076" lon="20.8804795"></trkpt>
+			<trkpt lat="49.6079377" lon="20.880442"></trkpt>
+			<trkpt lat="49.6085044" lon="20.8804125"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2106</name>
+		<desc>Length: 1.474 km (0.916 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.608555" lon="20.880332"></trkpt>
+			<trkpt lat="49.608548" lon="20.880354"></trkpt>
+			<trkpt lat="49.606795" lon="20.885459"></trkpt>
+			<trkpt lat="49.605551" lon="20.889081"></trkpt>
+			<trkpt lat="49.605304" lon="20.889819"></trkpt>
+			<trkpt lat="49.605615" lon="20.891594"></trkpt>
+			<trkpt lat="49.606263" lon="20.895425"></trkpt>
+			<trkpt lat="49.60649" lon="20.89677"></trkpt>
+			<trkpt lat="49.60668" lon="20.89721"></trkpt>
+			<trkpt lat="49.6071" lon="20.898593"></trkpt>
+			<trkpt lat="49.607194" lon="20.898846"></trkpt>
+			<trkpt lat="49.607228" lon="20.89901"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2107</name>
+		<desc>Length: 0.776 km (0.482 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.607228" lon="20.89901"></trkpt>
+			<trkpt lat="49.607229" lon="20.899016"></trkpt>
+			<trkpt lat="49.607106" lon="20.899085"></trkpt>
+			<trkpt lat="49.60699" lon="20.899145"></trkpt>
+			<trkpt lat="49.6065" lon="20.89972"></trkpt>
+			<trkpt lat="49.605917" lon="20.899986"></trkpt>
+			<trkpt lat="49.60435" lon="20.9007"></trkpt>
+			<trkpt lat="49.6038" lon="20.90369"></trkpt>
+			<trkpt lat="49.60266" lon="20.90365"></trkpt>
+			<trkpt lat="49.601999" lon="20.904017"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2060</name>
+		<desc>Length: 1.914 km (1.189 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.601999" lon="20.904017"></trkpt>
+			<trkpt lat="49.601972" lon="20.904032"></trkpt>
+			<trkpt lat="49.601872" lon="20.904426"></trkpt>
+			<trkpt lat="49.601461" lon="20.90538"></trkpt>
+			<trkpt lat="49.601341" lon="20.905699"></trkpt>
+			<trkpt lat="49.600809" lon="20.908135"></trkpt>
+			<trkpt lat="49.600687" lon="20.909108"></trkpt>
+			<trkpt lat="49.600546" lon="20.909132"></trkpt>
+			<trkpt lat="49.59977" lon="20.910282"></trkpt>
+			<trkpt lat="49.599647" lon="20.910373"></trkpt>
+			<trkpt lat="49.598566" lon="20.910785"></trkpt>
+			<trkpt lat="49.598397" lon="20.910832"></trkpt>
+			<trkpt lat="49.59801" lon="20.910939"></trkpt>
+			<trkpt lat="49.59717" lon="20.910997"></trkpt>
+			<trkpt lat="49.597069" lon="20.910993"></trkpt>
+			<trkpt lat="49.596889" lon="20.911063"></trkpt>
+			<trkpt lat="49.596599" lon="20.911286"></trkpt>
+			<trkpt lat="49.596425" lon="20.91142"></trkpt>
+			<trkpt lat="49.595482" lon="20.912283"></trkpt>
+			<trkpt lat="49.593732" lon="20.913744"></trkpt>
+			<trkpt lat="49.592401" lon="20.91528"></trkpt>
+			<trkpt lat="49.591715" lon="20.916072"></trkpt>
+			<trkpt lat="49.591181" lon="20.916647"></trkpt>
+			<trkpt lat="49.590119" lon="20.918837"></trkpt>
+			<trkpt lat="49.589732" lon="20.920085"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2061 odcinek PodJaworze</name>
+		<desc>Length: 1.037 km (0.644 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.5897511" lon="20.9201239"></trkpt>
+			<trkpt lat="49.5898841" lon="20.9203613"></trkpt>
+			<trkpt lat="49.5903849" lon="20.9213483"></trkpt>
+			<trkpt lat="49.5907118" lon="20.9219384"></trkpt>
+			<trkpt lat="49.5910456" lon="20.9225607"></trkpt>
+			<trkpt lat="49.5913655" lon="20.923183"></trkpt>
+			<trkpt lat="49.5914837" lon="20.9233761"></trkpt>
+			<trkpt lat="49.5921723" lon="20.9238803"></trkpt>
+			<trkpt lat="49.5935632" lon="20.9247386"></trkpt>
+			<trkpt lat="49.5939735" lon="20.9249747"></trkpt>
+			<trkpt lat="49.5942169" lon="20.9252214"></trkpt>
+			<trkpt lat="49.5945855" lon="20.9255004"></trkpt>
+			<trkpt lat="49.5949471" lon="20.9258223"></trkpt>
+			<trkpt lat="49.595274" lon="20.9260046"></trkpt>
+			<trkpt lat="49.5959068" lon="20.9262621"></trkpt>
+			<trkpt lat="49.5961571" lon="20.9263802"></trkpt>
+			<trkpt lat="49.5963032" lon="20.9264874"></trkpt>
+			<trkpt lat="49.5964144" lon="20.9266806"></trkpt>
+			<trkpt lat="49.5965257" lon="20.9269917"></trkpt>
+			<trkpt lat="49.5966439" lon="20.9271741"></trkpt>
+			<trkpt lat="49.5968595" lon="20.9273028"></trkpt>
+			<trkpt lat="49.5970959" lon="20.9274745"></trkpt>
+			<trkpt lat="49.5973498" lon="20.9276891"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2071</name>
+		<desc>Length: 197.6 m (648.3 ft)</desc>
+		<trkseg>
+			<trkpt lat="49.597375" lon="20.927726"></trkpt>
+			<trkpt lat="49.597188" lon="20.927961"></trkpt>
+			<trkpt lat="49.59682" lon="20.928572"></trkpt>
+			<trkpt lat="49.596472" lon="20.928701"></trkpt>
+			<trkpt lat="49.596284" lon="20.929291"></trkpt>
+			<trkpt lat="49.596079" lon="20.929359"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2072</name>
+		<desc>Length: 0.325 km (0.202 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.596079" lon="20.929359"></trkpt>
+			<trkpt lat="49.595992" lon="20.929388"></trkpt>
+			<trkpt lat="49.59574" lon="20.929591"></trkpt>
+			<trkpt lat="49.595211" lon="20.929773"></trkpt>
+			<trkpt lat="49.594242" lon="20.93042"></trkpt>
+			<trkpt lat="49.594192" lon="20.930562"></trkpt>
+			<trkpt lat="49.594082" lon="20.931019"></trkpt>
+			<trkpt lat="49.593969" lon="20.931142"></trkpt>
+			<trkpt lat="49.593869" lon="20.931205"></trkpt>
+			<trkpt lat="49.593705" lon="20.931198"></trkpt>
+			<trkpt lat="49.593589" lon="20.93117"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2073</name>
+		<desc>Length: 1.089 km (0.677 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.593522" lon="20.931155"></trkpt>
+			<trkpt lat="49.593509" lon="20.931151"></trkpt>
+			<trkpt lat="49.593368" lon="20.9315"></trkpt>
+			<trkpt lat="49.593236" lon="20.931683"></trkpt>
+			<trkpt lat="49.59302" lon="20.931854"></trkpt>
+			<trkpt lat="49.592874" lon="20.932068"></trkpt>
+			<trkpt lat="49.592826" lon="20.932433"></trkpt>
+			<trkpt lat="49.592826" lon="20.932723"></trkpt>
+			<trkpt lat="49.592955" lon="20.933459"></trkpt>
+			<trkpt lat="49.592881" lon="20.935008"></trkpt>
+			<trkpt lat="49.592777" lon="20.935351"></trkpt>
+			<trkpt lat="49.592631" lon="20.935738"></trkpt>
+			<trkpt lat="49.592471" lon="20.936306"></trkpt>
+			<trkpt lat="49.591463" lon="20.936521"></trkpt>
+			<trkpt lat="49.591031" lon="20.936693"></trkpt>
+			<trkpt lat="49.590934" lon="20.936896"></trkpt>
+			<trkpt lat="49.590788" lon="20.937422"></trkpt>
+			<trkpt lat="49.59076" lon="20.937701"></trkpt>
+			<trkpt lat="49.59085" lon="20.938066"></trkpt>
+			<trkpt lat="49.590955" lon="20.938313"></trkpt>
+			<trkpt lat="49.591164" lon="20.938602"></trkpt>
+			<trkpt lat="49.591293" lon="20.938835"></trkpt>
+			<trkpt lat="49.591379" lon="20.939107"></trkpt>
+			<trkpt lat="49.591463" lon="20.939965"></trkpt>
+			<trkpt lat="49.591495" lon="20.940144"></trkpt>
+			<trkpt lat="49.591622" lon="20.940383"></trkpt>
+			<trkpt lat="49.591782" lon="20.940619"></trkpt>
+			<trkpt lat="49.591935" lon="20.941188"></trkpt>
+			<trkpt lat="49.591933" lon="20.941377"></trkpt>
+			<trkpt lat="49.591894" lon="20.941563"></trkpt>
+			<trkpt lat="49.591706" lon="20.942089"></trkpt>
+			<trkpt lat="49.591622" lon="20.942433"></trkpt>
+			<trkpt lat="49.591589" lon="20.942937"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2074</name>
+		<desc>Length: 0.933 km (0.58 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.591589" lon="20.942937"></trkpt>
+			<trkpt lat="49.591586" lon="20.942984"></trkpt>
+			<trkpt lat="49.591485" lon="20.942975"></trkpt>
+			<trkpt lat="49.590912" lon="20.943062"></trkpt>
+			<trkpt lat="49.590268" lon="20.943322"></trkpt>
+			<trkpt lat="49.590123" lon="20.943458"></trkpt>
+			<trkpt lat="49.589677" lon="20.944118"></trkpt>
+			<trkpt lat="49.589142" lon="20.944415"></trkpt>
+			<trkpt lat="49.588772" lon="20.944502"></trkpt>
+			<trkpt lat="49.588356" lon="20.944771"></trkpt>
+			<trkpt lat="49.588173" lon="20.944976"></trkpt>
+			<trkpt lat="49.587868" lon="20.945451"></trkpt>
+			<trkpt lat="49.58759" lon="20.945818"></trkpt>
+			<trkpt lat="49.586905" lon="20.946359"></trkpt>
+			<trkpt lat="49.586763" lon="20.946388"></trkpt>
+			<trkpt lat="49.586533" lon="20.94633"></trkpt>
+			<trkpt lat="49.586113" lon="20.946136"></trkpt>
+			<trkpt lat="49.585586" lon="20.945827"></trkpt>
+			<trkpt lat="49.585343" lon="20.945851"></trkpt>
+			<trkpt lat="49.585005" lon="20.946755"></trkpt>
+			<trkpt lat="49.584815" lon="20.947168"></trkpt>
+			<trkpt lat="49.584524" lon="20.947606"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>2076</name>
+		<desc>Length: 1.687 km (1.048 mi)</desc>
+		<trkseg>
+			<trkpt lat="49.584524" lon="20.947606"></trkpt>
+			<trkpt lat="49.584518" lon="20.947615"></trkpt>
+			<trkpt lat="49.584454" lon="20.947603"></trkpt>
+			<trkpt lat="49.584179" lon="20.947595"></trkpt>
+			<trkpt lat="49.583693" lon="20.947392"></trkpt>
+			<trkpt lat="49.58335" lon="20.94739"></trkpt>
+			<trkpt lat="49.58292" lon="20.94734"></trkpt>
+			<trkpt lat="49.58271" lon="20.94738"></trkpt>
+			<trkpt lat="49.58228" lon="20.94783"></trkpt>
+			<trkpt lat="49.58208" lon="20.94776"></trkpt>
+			<trkpt lat="49.58138" lon="20.94651"></trkpt>
+			<trkpt lat="49.58029" lon="20.94535"></trkpt>
+			<trkpt lat="49.58009" lon="20.94477"></trkpt>
+			<trkpt lat="49.58001" lon="20.94409"></trkpt>
+			<trkpt lat="49.5799" lon="20.94388"></trkpt>
+			<trkpt lat="49.57841" lon="20.94428"></trkpt>
+			<trkpt lat="49.57816" lon="20.94419"></trkpt>
+			<trkpt lat="49.57715" lon="20.94323"></trkpt>
+			<trkpt lat="49.5767" lon="20.94283"></trkpt>
+			<trkpt lat="49.576584" lon="20.942642"></trkpt>
+			<trkpt lat="49.576143" lon="20.941411"></trkpt>
+			<trkpt lat="49.57567" lon="20.94003"></trkpt>
+			<trkpt lat="49.575547" lon="20.939547"></trkpt>
+			<trkpt lat="49.57507" lon="20.93767"></trkpt>
+			<trkpt lat="49.57476" lon="20.93613"></trkpt>
+			<trkpt lat="49.57398" lon="20.935468"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

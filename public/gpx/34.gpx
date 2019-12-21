@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="GeoportalSzlaków">
+	<metadata>
+		<name></name>
+	</metadata>
+	<rte>
+		<rtept lon="21.379889735602205" lat="49.43408901023986">
+			<name>punkt 0</name>
+		</rtept>
+		<rtept lon="21.37918688916925" lat="49.433536553935795">
+			<name>punkt 1</name>
+		</rtept>
+		<rtept lon="21.37813741269169" lat="49.43323419435664">
+			<name>punkt 2</name>
+		</rtept>
+		<rtept lon="21.37417330762014" lat="49.432577786052725">
+			<name>punkt 3</name>
+		</rtept>
+		<rtept lon="21.3728815107062" lat="49.43268530330898">
+			<name>punkt 4</name>
+		</rtept>
+		<rtept lon="21.371525495241464" lat="49.434035961027355">
+			<name>punkt 5</name>
+		</rtept>
+		<rtept lon="21.370268931660195" lat="49.43687836619248">
+			<name>punkt 6</name>
+		</rtept>
+		<rtept lon="21.36918679247715" lat="49.4384753447098">
+			<name>punkt 7</name>
+		</rtept>
+		<rtept lon="21.367979062189033" lat="49.439471965145955">
+			<name>punkt 8</name>
+		</rtept>
+		<rtept lon="21.364792268920827" lat="49.44149894773065">
+			<name>punkt 9</name>
+		</rtept>
+		<rtept lon="21.363524856685007" lat="49.44211879161108">
+			<name>punkt 10</name>
+		</rtept>
+		<rtept lon="21.36242022215809" lat="49.44239334018044">
+			<name>punkt 11</name>
+		</rtept>
+		<rtept lon="21.361651178161065" lat="49.44247204716055">
+			<name>punkt 12</name>
+		</rtept>
+		<rtept lon="21.36110571272881" lat="49.44232121223892">
+			<name>punkt 13</name>
+		</rtept>
+		<rtept lon="21.35792699846204" lat="49.443088005823235">
+			<name>punkt 14</name>
+		</rtept>
+		<rtept lon="21.356596963732876" lat="49.44298014803418">
+			<name>punkt 15</name>
+		</rtept>
+		<rtept lon="21.35552415360105" lat="49.443631930716975">
+			<name>punkt 16</name>
+		</rtept>
+		<rtept lon="21.351828177887985" lat="49.44512899803651">
+			<name>punkt 17</name>
+		</rtept>
+		<rtept lon="21.349097975220037" lat="49.446912281271274">
+			<name>punkt 18</name>
+		</rtept>
+		<rtept lon="21.346713914474076" lat="49.449300388489">
+			<name>punkt 19</name>
+		</rtept>
+		<rtept lon="21.345730117879885" lat="49.44950933108129">
+			<name>punkt 20</name>
+		</rtept>
+		<rtept lon="21.344266075787047" lat="49.4506458804588">
+			<name>punkt 21</name>
+		</rtept>
+		<rtept lon="21.34273101825173" lat="49.451162934956685">
+			<name>punkt 22</name>
+		</rtept>
+		<rtept lon="21.34200796047426" lat="49.45105160398118">
+			<name>punkt 23</name>
+		</rtept>
+		<rtept lon="21.341284396779987" lat="49.45121924054174">
+			<name>punkt 24</name>
+		</rtept>
+		<rtept lon="21.339875375839057" lat="49.450905817464665">
+			<name>punkt 25</name>
+		</rtept>
+		<rtept lon="21.33726851444836" lat="49.451525478401216">
+			<name>punkt 26</name>
+		</rtept>
+		<rtept lon="21.3346095874382" lat="49.450760322494304">
+			<name>punkt 27</name>
+		</rtept>
+		<rtept lon="21.33210074047149" lat="49.4508289626288">
+			<name>punkt 28</name>
+		</rtept>
+		<rtept lon="21.331481338469715" lat="49.45028353420418">
+			<name>punkt 29</name>
+		</rtept>
+		<rtept lon="21.33017248538508" lat="49.44975200261747">
+			<name>punkt 30</name>
+		</rtept>
+		<rtept lon="21.328883499550095" lat="49.45080383725442">
+			<name>punkt 31</name>
+		</rtept>
+		<rtept lon="21.327853963464804" lat="49.45092356091082">
+			<name>punkt 32</name>
+		</rtept>
+		<rtept lon="21.32575026638528" lat="49.452261726144215">
+			<name>punkt 33</name>
+		</rtept>
+		<rtept lon="21.32253443841464" lat="49.45256034991382">
+			<name>punkt 34</name>
+		</rtept>
+		<rtept lon="21.32162451623554" lat="49.45287558683741">
+			<name>punkt 35</name>
+		</rtept>
+		<rtept lon="21.31895683933456" lat="49.45309111044645">
+			<name>punkt 36</name>
+		</rtept>
+		<rtept lon="21.316192376608523" lat="49.45359647129359">
+			<name>punkt 37</name>
+		</rtept>
+		<rtept lon="21.313506964349926" lat="49.45636786479574">
+			<name>punkt 38</name>
+		</rtept>
+		<rtept lon="21.309371919425804" lat="49.458556248122925">
+			<name>punkt 39</name>
+		</rtept>
+		<rtept lon="21.30877744369207" lat="49.45824416831891">
+			<name>punkt 40</name>
+		</rtept>
+		<rtept lon="21.308377478638267" lat="49.458252155700094">
+			<name>punkt 41</name>
+		</rtept>
+		<rtept lon="21.306754115159745" lat="49.45719571463571">
+			<name>punkt 42</name>
+		</rtept>
+		<rtept lon="21.30638469611165" lat="49.457266076703675">
+			<name>punkt 43</name>
+		</rtept>
+		<rtept lon="21.30424750383911" lat="49.4555539454871">
+			<name>punkt 44</name>
+		</rtept>
+		<rtept lon="21.301925194577308" lat="49.454601354383705">
+			<name>punkt 45</name>
+		</rtept>
+		<rtept lon="21.300872980613786" lat="49.45365044012773">
+			<name>punkt 46</name>
+		</rtept>
+		<rtept lon="21.300629913928233" lat="49.45288138752579">
+			<name>punkt 47</name>
+		</rtept>
+		<rtept lon="21.299624182832986" lat="49.45203752157674">
+			<name>punkt 48</name>
+		</rtept>
+		<rtept lon="21.299059110711315" lat="49.451760802168195">
+			<name>punkt 49</name>
+		</rtept>
+		<rtept lon="21.29834538605577" lat="49.45184698466577">
+			<name>punkt 50</name>
+		</rtept>
+		<rtept lon="21.29518007257771" lat="49.45263877138274">
+			<name>punkt 51</name>
+		</rtept>
+		<rtept lon="21.292892335822113" lat="49.4538989981191">
+			<name>punkt 52</name>
+		</rtept>
+		<rtept lon="21.292590669719345" lat="49.45423793372066">
+			<name>punkt 53</name>
+		</rtept>
+		<rtept lon="21.29047822305894" lat="49.454819731661885">
+			<name>punkt 54</name>
+		</rtept>
+		<rtept lon="21.287990116908507" lat="49.456524766331775">
+			<name>punkt 55</name>
+		</rtept>
+		<rtept lon="21.28503289694773" lat="49.457942062455395">
+			<name>punkt 56</name>
+		</rtept>
+		<rtept lon="21.28284329446333" lat="49.458651225999176">
+			<name>punkt 57</name>
+		</rtept>
+		<rtept lon="21.28033433269556" lat="49.45902469708941">
+			<name>punkt 58</name>
+		</rtept>
+		<rtept lon="21.279418930203654" lat="49.46012259378828">
+			<name>punkt 59</name>
+		</rtept>
+		<rtept lon="21.277466961617407" lat="49.46089895802141">
+			<name>punkt 60</name>
+		</rtept>
+		<rtept lon="21.271892795744645" lat="49.459775817097416">
+			<name>punkt 61</name>
+		</rtept>
+		<rtept lon="21.26922450364746" lat="49.4584964188472">
+			<name>punkt 62</name>
+		</rtept>
+		<rtept lon="21.267544712237093" lat="49.45739554538065">
+			<name>punkt 63</name>
+		</rtept>
+		<rtept lon="21.267075121057747" lat="49.45439919331802">
+			<name>punkt 64</name>
+		</rtept>
+		<rtept lon="21.26592840518664" lat="49.4519830307444">
+			<name>punkt 65</name>
+		</rtept>
+		<rtept lon="21.266296000904983" lat="49.448880273468035">
+			<name>punkt 66</name>
+		</rtept>
+		<rtept lon="21.265578246154803" lat="49.44738256164781">
+			<name>punkt 67</name>
+		</rtept>
+		<rtept lon="21.26597617008572" lat="49.44703281146013">
+			<name>punkt 68</name>
+		</rtept>
+		<rtept lon="21.26307369100515" lat="49.44724264871153">
+			<name>punkt 69</name>
+		</rtept>
+		<rtept lon="21.25950711073802" lat="49.44681748970185">
+			<name>punkt 70</name>
+		</rtept>
+		<rtept lon="21.25644459742193" lat="49.444744620516936">
+			<name>punkt 71</name>
+		</rtept>
+		<rtept lon="21.255286634623943" lat="49.44357039220473">
+			<name>punkt 72</name>
+		</rtept>
+		<rtept lon="21.25234222045036" lat="49.441657087487656">
+			<name>punkt 73</name>
+		</rtept>
+		<rtept lon="21.246919649328987" lat="49.43926098326685">
+			<name>punkt 74</name>
+		</rtept>
+		<rtept lon="21.245504902938357" lat="49.437290765351555">
+			<name>punkt 75</name>
+		</rtept>
+		<rtept lon="21.240838620116953" lat="49.43421378054292">
+			<name>punkt 76</name>
+		</rtept>
+		<rtept lon="21.238389232584" lat="49.4352690921567">
+			<name>punkt 77</name>
+		</rtept>
+		<rtept lon="21.236842444179285" lat="49.435541999740714">
+			<name>punkt 78</name>
+		</rtept>
+		<rtept lon="21.23468018635625" lat="49.43714959337137">
+			<name>punkt 79</name>
+		</rtept>
+		<rtept lon="21.23406754853862" lat="49.43733241057141">
+			<name>punkt 80</name>
+		</rtept>
+		<rtept lon="21.233096967587443" lat="49.43662227192643">
+			<name>punkt 81</name>
+		</rtept>
+		<rtept lon="21.231748423564863" lat="49.43427266428398">
+			<name>punkt 82</name>
+		</rtept>
+		<rtept lon="21.23099320507381" lat="49.43344136690102">
+			<name>punkt 83</name>
+		</rtept>
+		<rtept lon="21.230174059365" lat="49.433025237527566">
+			<name>punkt 84</name>
+		</rtept>
+		<rtept lon="21.226542928234164" lat="49.42962174777207">
+			<name>punkt 85</name>
+		</rtept>
+		<rtept lon="21.22586702006776" lat="49.4293198117777">
+			<name>punkt 86</name>
+		</rtept>
+		<rtept lon="21.22301682514227" lat="49.42914069729404">
+			<name>punkt 87</name>
+		</rtept>
+		<rtept lon="21.22409413659133" lat="49.42977687683904">
+			<name>punkt 88</name>
+		</rtept>
+		<rtept lon="21.22386593625087" lat="49.43022220300596">
+			<name>punkt 89</name>
+		</rtept>
+		<rtept lon="21.22098859925761" lat="49.4309704243984">
+			<name>punkt 90</name>
+		</rtept>
+		<rtept lon="21.21845905824533" lat="49.43208984330691">
+			<name>punkt 91</name>
+		</rtept>
+		<rtept lon="21.21582032176033" lat="49.43354425013639">
+			<name>punkt 92</name>
+		</rtept>
+		<rtept lon="21.21216205200608" lat="49.43503610901817">
+			<name>punkt 93</name>
+		</rtept>
+		<rtept lon="21.209908593592143" lat="49.43647400578628">
+			<name>punkt 94</name>
+		</rtept>
+		<rtept lon="21.20822615180969" lat="49.4368031143973">
+			<name>punkt 95</name>
+		</rtept>
+		<rtept lon="21.206873575184208" lat="49.438025766769705">
+			<name>punkt 96</name>
+		</rtept>
+		<rtept lon="21.206083601495415" lat="49.4382568137049">
+			<name>punkt 97</name>
+		</rtept>
+		<rtept lon="21.20560024029163" lat="49.43824804024105">
+			<name>punkt 98</name>
+		</rtept>
+		<rtept lon="21.204950297616023" lat="49.4379094922217">
+			<name>punkt 99</name>
+		</rtept>
+		<rtept lon="21.204092670314367" lat="49.43786285773145">
+			<name>punkt 100</name>
+		</rtept>
+		<rtept lon="21.20287980123274" lat="49.43789497652848">
+			<name>punkt 101</name>
+		</rtept>
+		<rtept lon="21.20115831436448" lat="49.438278717613095">
+			<name>punkt 102</name>
+		</rtept>
+		<rtept lon="21.199785027518292" lat="49.43780993408589">
+			<name>punkt 103</name>
+		</rtept>
+		<rtept lon="21.196899204594775" lat="49.437459877021595">
+			<name>punkt 104</name>
+		</rtept>
+		<rtept lon="21.194698095821597" lat="49.436682812147154">
+			<name>punkt 105</name>
+		</rtept>
+		<rtept lon="21.19284919248948" lat="49.43637595282966">
+			<name>punkt 106</name>
+		</rtept>
+		<rtept lon="21.19172965026204" lat="49.436334195063274">
+			<name>punkt 107</name>
+		</rtept>
+		<rtept lon="21.191099700540775" lat="49.436751076581686">
+			<name>punkt 108</name>
+		</rtept>
+		<rtept lon="21.190544615432948" lat="49.436680609223814">
+			<name>punkt 109</name>
+		</rtept>
+		<rtept lon="21.183904525161815" lat="49.43443960903381">
+			<name>punkt 110</name>
+		</rtept>
+		<rtept lon="21.183402036370993" lat="49.43399916958133">
+			<name>punkt 111</name>
+		</rtept>
+		<rtept lon="21.182313318659077" lat="49.43402872770911">
+			<name>punkt 112</name>
+		</rtept>
+		<rtept lon="21.180117370967796" lat="49.433359272730286">
+			<name>punkt 113</name>
+		</rtept>
+		<rtept lon="21.178108311768487" lat="49.435349850643675">
+			<name>punkt 114</name>
+		</rtept>
+		<rtept lon="21.175740083537463" lat="49.43702320248596">
+			<name>punkt 115</name>
+		</rtept>
+		<rtept lon="21.174157989969032" lat="49.438690719985914">
+			<name>punkt 116</name>
+		</rtept>
+		<rtept lon="21.17350093356376" lat="49.43974691654199">
+			<name>punkt 117</name>
+		</rtept>
+		<rtept lon="21.17333173323828" lat="49.441225871731945">
+			<name>punkt 118</name>
+		</rtept>
+		<rtept lon="21.17008303622252" lat="49.44203378962064">
+			<name>punkt 119</name>
+		</rtept>
+		<rtept lon="21.1665878453485" lat="49.442261325826365">
+			<name>punkt 120</name>
+		</rtept>
+		<rtept lon="21.164513195276943" lat="49.442156213298496">
+			<name>punkt 121</name>
+		</rtept>
+		<rtept lon="21.159388400573953" lat="49.44141518798549">
+			<name>punkt 122</name>
+		</rtept>
+		<rtept lon="21.15727828235701" lat="49.44050073373994">
+			<name>punkt 123</name>
+		</rtept>
+		<rtept lon="21.154521388085705" lat="49.43994024475335">
+			<name>punkt 124</name>
+		</rtept>
+		<rtept lon="21.150997519249124" lat="49.43982589731456">
+			<name>punkt 125</name>
+		</rtept>
+		<rtept lon="21.148319424521585" lat="49.440118661467146">
+			<name>punkt 126</name>
+		</rtept>
+		<rtept lon="21.14633381032485" lat="49.44078544767082">
+			<name>punkt 127</name>
+		</rtept>
+		<rtept lon="21.14570375312609" lat="49.441526030552545">
+			<name>punkt 128</name>
+		</rtept>
+		<rtept lon="21.14452766985389" lat="49.44208777019112">
+			<name>punkt 129</name>
+		</rtept>
+		<rtept lon="21.14387672059966" lat="49.44266675567033">
+			<name>punkt 130</name>
+		</rtept>
+		<rtept lon="21.1431679218259" lat="49.44286886906751">
+			<name>punkt 131</name>
+		</rtept>
+		<rtept lon="21.14265908072584" lat="49.44385914789702">
+			<name>punkt 132</name>
+		</rtept>
+		<rtept lon="21.14211032081467" lat="49.44361735738875">
+			<name>punkt 133</name>
+		</rtept>
+		<rtept lon="21.139903933975944" lat="49.443973171845016">
+			<name>punkt 134</name>
+		</rtept>
+		<rtept lon="21.13925820074128" lat="49.44530791528592">
+			<name>punkt 135</name>
+		</rtept>
+		<rtept lon="21.137942287849913" lat="49.44646608065176">
+			<name>punkt 136</name>
+		</rtept>
+		<rtept lon="21.136896365603015" lat="49.447169311177454">
+			<name>punkt 137</name>
+		</rtept>
+		<rtept lon="21.135302031233493" lat="49.44763970140248">
+			<name>punkt 138</name>
+		</rtept>
+		<rtept lon="21.133306048107674" lat="49.44935028664269">
+			<name>punkt 139</name>
+		</rtept>
+		<rtept lon="21.132644077960425" lat="49.44936250039551">
+			<name>punkt 140</name>
+		</rtept>
+		<rtept lon="21.13054198606583" lat="49.451812876599675">
+			<name>punkt 141</name>
+		</rtept>
+		<rtept lon="21.128745698762668" lat="49.45304277605879">
+			<name>punkt 142</name>
+		</rtept>
+		<rtept lon="21.12812940389137" lat="49.45379200479529">
+			<name>punkt 143</name>
+		</rtept>
+		<rtept lon="21.128062066074488" lat="49.454468136492814">
+			<name>punkt 144</name>
+		</rtept>
+		<rtept lon="21.127355200339903" lat="49.455039056744525">
+			<name>punkt 145</name>
+		</rtept>
+		<rtept lon="21.126397277785944" lat="49.45491270290735">
+			<name>punkt 146</name>
+		</rtept>
+		<rtept lon="21.12578226733698" lat="49.455373941138696">
+			<name>punkt 147</name>
+		</rtept>
+		<rtept lon="21.12509146044781" lat="49.455359645759934">
+			<name>punkt 148</name>
+		</rtept>
+		<rtept lon="21.12452343846969" lat="49.45563104374461">
+			<name>punkt 149</name>
+		</rtept>
+		<rtept lon="21.12395949854316" lat="49.45631629745849">
+			<name>punkt 150</name>
+		</rtept>
+		<rtept lon="21.12377029369228" lat="49.457048656273315">
+			<name>punkt 151</name>
+		</rtept>
+		<rtept lon="21.12286654149855" lat="49.45785712742475">
+			<name>punkt 152</name>
+		</rtept>
+		<rtept lon="21.1230075873241" lat="49.45856542302739">
+			<name>punkt 153</name>
+		</rtept>
+		<rtept lon="21.12212128389126" lat="49.45913960525562">
+			<name>punkt 154</name>
+		</rtept>
+		<rtept lon="21.12518445675173" lat="49.46229582069799">
+			<name>punkt 155</name>
+		</rtept>
+		<rtept lon="21.129606773111863" lat="49.46526495435601">
+			<name>punkt 156</name>
+		</rtept>
+		<rtept lon="21.130803154779123" lat="49.46674566863082">
+			<name>punkt 157</name>
+		</rtept>
+		<rtept lon="21.133612485981196" lat="49.46848456967158">
+			<name>punkt 158</name>
+		</rtept>
+		<rtept lon="21.136387696303817" lat="49.46911721194915">
+			<name>punkt 159</name>
+		</rtept>
+		<rtept lon="21.138931476564274" lat="49.470141007234275">
+			<name>punkt 160</name>
+		</rtept>
+		<rtept lon="21.140594227602016" lat="49.46995725893702">
+			<name>punkt 161</name>
+		</rtept>
+		<rtept lon="21.14150410131652" lat="49.469607463082774">
+			<name>punkt 162</name>
+		</rtept>
+		<rtept lon="21.144490955453666" lat="49.469075177386216">
+			<name>punkt 163</name>
+		</rtept>
+		<rtept lon="21.14659631127821" lat="49.46891012766077">
+			<name>punkt 164</name>
+		</rtept>
+		<rtept lon="21.147185946333895" lat="49.469448090789264">
+			<name>punkt 165</name>
+		</rtept>
+		<rtept lon="21.14677511723397" lat="49.470157607307854">
+			<name>punkt 166</name>
+		</rtept>
+		<rtept lon="21.144860647852333" lat="49.47184887319726">
+			<name>punkt 167</name>
+		</rtept>
+		<rtept lon="21.143943018050223" lat="49.47360261307194">
+			<name>punkt 168</name>
+		</rtept>
+		<rtept lon="21.143066118065907" lat="49.47439274534513">
+			<name>punkt 169</name>
+		</rtept>
+		<rtept lon="21.142311085962703" lat="49.47481167231449">
+			<name>punkt 170</name>
+		</rtept>
+		<rtept lon="21.141420875682503" lat="49.47498113869798">
+			<name>punkt 171</name>
+		</rtept>
+		<rtept lon="21.14034328516615" lat="49.475603994295625">
+			<name>punkt 172</name>
+		</rtept>
+		<rtept lon="21.13848942420371" lat="49.476160212947626">
+			<name>punkt 173</name>
+		</rtept>
+		<rtept lon="21.13626193825629" lat="49.47860399976116">
+			<name>punkt 174</name>
+		</rtept>
+		<rtept lon="21.133555628103935" lat="49.479886768980286">
+			<name>punkt 175</name>
+		</rtept>
+		<rtept lon="21.131943801845285" lat="49.4809333338196">
+			<name>punkt 176</name>
+		</rtept>
+		<rtept lon="21.13004142510506" lat="49.48260612678892">
+			<name>punkt 177</name>
+		</rtept>
+		<rtept lon="21.12898254326216" lat="49.48303056200566">
+			<name>punkt 178</name>
+		</rtept>
+		<rtept lon="21.127512280204215" lat="49.48288665203657">
+			<name>punkt 179</name>
+		</rtept>
+		<rtept lon="21.12681546712873" lat="49.48306144458906">
+			<name>punkt 180</name>
+		</rtept>
+		<rtept lon="21.121954737644614" lat="49.48531939193349">
+			<name>punkt 181</name>
+		</rtept>
+		<rtept lon="21.120279875170233" lat="49.48683487047044">
+			<name>punkt 182</name>
+		</rtept>
+		<rtept lon="21.11894534263576" lat="49.4875972116155">
+			<name>punkt 183</name>
+		</rtept>
+		<rtept lon="21.117944684842087" lat="49.48905530561353">
+			<name>punkt 184</name>
+		</rtept>
+		<rtept lon="21.11568551188713" lat="49.491121326434005">
+			<name>punkt 185</name>
+		</rtept>
+		<rtept lon="21.112544138637183" lat="49.49291547013731">
+			<name>punkt 186</name>
+		</rtept>
+		<rtept lon="21.110931418635815" lat="49.49492459048002">
+			<name>punkt 187</name>
+		</rtept>
+		<rtept lon="21.107796092724307" lat="49.496547520395325">
+			<name>punkt 188</name>
+		</rtept>
+		<rtept lon="21.103559786807452" lat="49.49730854580476">
+			<name>punkt 189</name>
+		</rtept>
+		<rtept lon="21.102927150553526" lat="49.497697988572035">
+			<name>punkt 190</name>
+		</rtept>
+		<rtept lon="21.101641171573835" lat="49.49863921243474">
+			<name>punkt 191</name>
+		</rtept>
+		<rtept lon="21.1008805202855" lat="49.49958887580797">
+			<name>punkt 192</name>
+		</rtept>
+		<rtept lon="21.100316363629823" lat="49.501578788138175">
+			<name>punkt 193</name>
+		</rtept>
+		<rtept lon="21.095582209877577" lat="49.50395928438407">
+			<name>punkt 194</name>
+		</rtept>
+		<rtept lon="21.09360444760238" lat="49.50553384418206">
+			<name>punkt 195</name>
+		</rtept>
+		<rtept lon="21.093513181487385" lat="49.5059854194857">
+			<name>punkt 196</name>
+		</rtept>
+		<rtept lon="21.0928028813092" lat="49.50650218975066">
+			<name>punkt 197</name>
+		</rtept>
+		<rtept lon="21.092404006418754" lat="49.507193290353335">
+			<name>punkt 198</name>
+		</rtept>
+		<rtept lon="21.092608450402626" lat="49.50809843530424">
+			<name>punkt 199</name>
+		</rtept>
+		<rtept lon="21.09178841281399" lat="49.50960701468172">
+			<name>punkt 200</name>
+		</rtept>
+		<rtept lon="21.090923454358197" lat="49.510711469509246">
+			<name>punkt 201</name>
+		</rtept>
+		<rtept lon="21.089722839879975" lat="49.51139905607027">
+			<name>punkt 202</name>
+		</rtept>
+		<rtept lon="21.090275567968273" lat="49.51172200970727">
+			<name>punkt 203</name>
+		</rtept>
+		<rtept lon="21.091190793079505" lat="49.511795448278995">
+			<name>punkt 204</name>
+		</rtept>
+		<rtept lon="21.093600831861263" lat="49.51159886991858">
+			<name>punkt 205</name>
+		</rtept>
+		<rtept lon="21.09440447090156" lat="49.512295196373856">
+			<name>punkt 206</name>
+		</rtept>
+		<rtept lon="21.095070130196337" lat="49.51428979405802">
+			<name>punkt 207</name>
+		</rtept>
+		<rtept lon="21.094810073216905" lat="49.51467243982818">
+			<name>punkt 208</name>
+		</rtept>
+		<rtept lon="21.095515293415172" lat="49.516621325645865">
+			<name>punkt 209</name>
+		</rtept>
+		<rtept lon="21.097011874922625" lat="49.51735906691968">
+			<name>punkt 210</name>
+		</rtept>
+		<rtept lon="21.099015844305622" lat="49.51929337329655">
+			<name>punkt 211</name>
+		</rtept>
+		<rtept lon="21.101482041777228" lat="49.52007644419524">
+			<name>punkt 212</name>
+		</rtept>
+		<rtept lon="21.10268607841188" lat="49.52075643878041">
+			<name>punkt 213</name>
+		</rtept>
+		<rtept lon="21.10437419613286" lat="49.52240844472451">
+			<name>punkt 214</name>
+		</rtept>
+		<rtept lon="21.1024347319772" lat="49.523919463033906">
+			<name>punkt 215</name>
+		</rtept>
+		<rtept lon="21.100727839596605" lat="49.52634406466423">
+			<name>punkt 216</name>
+		</rtept>
+		<rtept lon="21.097473991972382" lat="49.52848175877952">
+			<name>punkt 217</name>
+		</rtept>
+		<rtept lon="21.09478730128052" lat="49.5293403098792">
+			<name>punkt 218</name>
+		</rtept>
+		<rtept lon="21.09341975676029" lat="49.53001295736458">
+			<name>punkt 219</name>
+		</rtept>
+		<rtept lon="21.091845353685876" lat="49.53134621494344">
+			<name>punkt 220</name>
+		</rtept>
+		<rtept lon="21.08944890836309" lat="49.53188444580197">
+			<name>punkt 221</name>
+		</rtept>
+		<rtept lon="21.085127399848723" lat="49.53364513855501">
+			<name>punkt 222</name>
+		</rtept>
+		<rtept lon="21.082325304011626" lat="49.53537832320528">
+			<name>punkt 223</name>
+		</rtept>
+		<rtept lon="21.078227758929092" lat="49.53558699622581">
+			<name>punkt 224</name>
+		</rtept>
+		<rtept lon="21.076913641345698" lat="49.535898549636435">
+			<name>punkt 225</name>
+		</rtept>
+		<rtept lon="21.073224355711343" lat="49.538241332606134">
+			<name>punkt 226</name>
+		</rtept>
+		<rtept lon="21.069802361088755" lat="49.53939142462491">
+			<name>punkt 227</name>
+		</rtept>
+		<rtept lon="21.067100953451543" lat="49.54222023607997">
+			<name>punkt 228</name>
+		</rtept>
+		<rtept lon="21.065888454523733" lat="49.54297976587221">
+			<name>punkt 229</name>
+		</rtept>
+		<rtept lon="21.060921492448635" lat="49.54521898358957">
+			<name>punkt 230</name>
+		</rtept>
+		<rtept lon="21.057957278212054" lat="49.547737313881726">
+			<name>punkt 231</name>
+		</rtept>
+		<rtept lon="21.05722041097292" lat="49.54863226167801">
+			<name>punkt 232</name>
+		</rtept>
+		<rtept lon="21.05397020680741" lat="49.55060667211345">
+			<name>punkt 233</name>
+		</rtept>
+		<rtept lon="21.05402562347535" lat="49.550938627590064">
+			<name>punkt 234</name>
+		</rtept>
+		<rtept lon="21.053153954943784" lat="49.5522498666731">
+			<name>punkt 235</name>
+		</rtept>
+		<rtept lon="21.052678405380256" lat="49.55410297017275">
+			<name>punkt 236</name>
+		</rtept>
+		<rtept lon="21.0529209067895" lat="49.55427863393063">
+			<name>punkt 237</name>
+		</rtept>
+		<rtept lon="21.052115874738913" lat="49.55520175214676">
+			<name>punkt 238</name>
+		</rtept>
+		<rtept lon="21.052607045556453" lat="49.5560298849453">
+			<name>punkt 239</name>
+		</rtept>
+		<rtept lon="21.052480137192823" lat="49.55630208743022">
+			<name>punkt 240</name>
+		</rtept>
+		<rtept lon="21.05055897623017" lat="49.55765891649622">
+			<name>punkt 241</name>
+		</rtept>
+		<rtept lon="21.049152262288555" lat="49.559411526813896">
+			<name>punkt 242</name>
+		</rtept>
+		<rtept lon="21.047361597481377" lat="49.56058602251711">
+			<name>punkt 243</name>
+		</rtept>
+		<rtept lon="21.044650838215304" lat="49.560930911766384">
+			<name>punkt 244</name>
+		</rtept>
+		<rtept lon="21.04049251990702" lat="49.56272301677016">
+			<name>punkt 245</name>
+		</rtept>
+		<rtept lon="21.036742220189463" lat="49.56368893926043">
+			<name>punkt 246</name>
+		</rtept>
+		<rtept lon="21.033621338338225" lat="49.56515658109008">
+			<name>punkt 247</name>
+		</rtept>
+		<rtept lon="21.02845417365088" lat="49.56666003523658">
+			<name>punkt 248</name>
+		</rtept>
+		<rtept lon="21.02791533354125" lat="49.56701141818952">
+			<name>punkt 249</name>
+		</rtept>
+		<rtept lon="21.02282524243514" lat="49.56804535520526">
+			<name>punkt 250</name>
+		</rtept>
+		<rtept lon="21.02066821297478" lat="49.569081863757965">
+			<name>punkt 251</name>
+		</rtept>
+		<rtept lon="21.018466748315117" lat="49.56971418292933">
+			<name>punkt 252</name>
+		</rtept>
+		<rtept lon="21.01638658030649" lat="49.57060529663012">
+			<name>punkt 253</name>
+		</rtept>
+		<rtept lon="21.013422318126835" lat="49.57119682165022">
+			<name>punkt 254</name>
+		</rtept>
+		<rtept lon="21.011682483876417" lat="49.57195595010626">
+			<name>punkt 255</name>
+		</rtept>
+		<rtept lon="21.01074079556071" lat="49.571936327579245">
+			<name>punkt 256</name>
+		</rtept>
+		<rtept lon="21.008294048614204" lat="49.5723297604012">
+			<name>punkt 257</name>
+		</rtept>
+		<rtept lon="21.00745781851572" lat="49.57285717632755">
+			<name>punkt 258</name>
+		</rtept>
+		<rtept lon="21.00660442877338" lat="49.573978770950305">
+			<name>punkt 259</name>
+		</rtept>
+		<rtept lon="21.005594671947108" lat="49.57398728179342">
+			<name>punkt 260</name>
+		</rtept>
+		<rtept lon="21.00192817949938" lat="49.57467166619725">
+			<name>punkt 261</name>
+		</rtept>
+		<rtept lon="21.00234568302824" lat="49.57574423534685">
+			<name>punkt 262</name>
+		</rtept>
+		<rtept lon="21.002048717343826" lat="49.577279082882534">
+			<name>punkt 263</name>
+		</rtept>
+		<rtept lon="21.008695437595247" lat="49.580421252742035">
+			<name>punkt 264</name>
+		</rtept>
+		<rtept lon="21.009732875137825" lat="49.58142004248081">
+			<name>punkt 265</name>
+		</rtept>
+		<rtept lon="21.008954945319783" lat="49.581685504922255">
+			<name>punkt 266</name>
+		</rtept>
+		<rtept lon="21.008132114394364" lat="49.58422830627893">
+			<name>punkt 267</name>
+		</rtept>
+		<rtept lon="21.006059263952775" lat="49.58734167503376">
+			<name>punkt 268</name>
+		</rtept>
+		<rtept lon="21.006580276837298" lat="49.5902570784303">
+			<name>punkt 269</name>
+		</rtept>
+		<rtept lon="21.006392552023893" lat="49.591754046326855">
+			<name>punkt 270</name>
+		</rtept>
+		<rtept lon="21.003976647531836" lat="49.59326263153445">
+			<name>punkt 271</name>
+		</rtept>
+		<rtept lon="21.0013037477337" lat="49.595936385776014">
+			<name>punkt 272</name>
+		</rtept>
+		<rtept lon="20.999440921922165" lat="49.59676043709645">
+			<name>punkt 273</name>
+		</rtept>
+		<rtept lon="20.997653558693074" lat="49.59706125662456">
+			<name>punkt 274</name>
+		</rtept>
+		<rtept lon="20.99747640278696" lat="49.596452433878575">
+			<name>punkt 275</name>
+		</rtept>
+		<rtept lon="20.996441695164172" lat="49.59620034398356">
+			<name>punkt 276</name>
+		</rtept>
+		<rtept lon="20.99564953229229" lat="49.59510722442086">
+			<name>punkt 277</name>
+		</rtept>
+		<rtept lon="20.99494062223977" lat="49.594696531282985">
+			<name>punkt 278</name>
+		</rtept>
+		<rtept lon="20.994504930098564" lat="49.59487500917933">
+			<name>punkt 279</name>
+		</rtept>
+		<rtept lon="20.99336107172094" lat="49.59466076633963">
+			<name>punkt 280</name>
+		</rtept>
+		<rtept lon="20.991777946965676" lat="49.59487699235182">
+			<name>punkt 281</name>
+		</rtept>
+		<rtept lon="20.989516019587793" lat="49.5957617422396">
+			<name>punkt 282</name>
+		</rtept>
+		<rtept lon="20.988329260956142" lat="49.595854127641054">
+			<name>punkt 283</name>
+		</rtept>
+		<rtept lon="20.987436695893763" lat="49.5984159647843">
+			<name>punkt 284</name>
+		</rtept>
+		<rtept lon="20.989012983001913" lat="49.599729617562666">
+			<name>punkt 285</name>
+		</rtept>
+		<rtept lon="20.992576097237336" lat="49.60087407870336">
+			<name>punkt 286</name>
+		</rtept>
+		<rtept lon="20.992818371086624" lat="49.60274154054813">
+			<name>punkt 287</name>
+		</rtept>
+		<rtept lon="20.994527906210458" lat="49.60425978324468">
+			<name>punkt 288</name>
+		</rtept>
+		<rtept lon="20.994215610642566" lat="49.6057678715255">
+			<name>punkt 289</name>
+		</rtept>
+		<rtept lon="20.99094642643286" lat="49.60810971739374">
+			<name>punkt 290</name>
+		</rtept>
+		<rtept lon="20.987973118770633" lat="49.60922262718036">
+			<name>punkt 291</name>
+		</rtept>
+		<rtept lon="20.986034942238135" lat="49.61025471102696">
+			<name>punkt 292</name>
+		</rtept>
+		<rtept lon="20.983341403025108" lat="49.61110174993226">
+			<name>punkt 293</name>
+		</rtept>
+		<rtept lon="20.980476596271235" lat="49.61148374958194">
+			<name>punkt 294</name>
+		</rtept>
+		<rtept lon="20.97445896501868" lat="49.61437602731596">
+			<name>punkt 295</name>
+		</rtept>
+		<rtept lon="20.97148421680471" lat="49.615128604965136">
+			<name>punkt 296</name>
+		</rtept>
+		<rtept lon="20.970195967347497" lat="49.615807413797434">
+			<name>punkt 297</name>
+		</rtept>
+		<rtept lon="20.9696510304054" lat="49.61637457868392">
+			<name>punkt 298</name>
+		</rtept>
+		<rtept lon="20.96979081401567" lat="49.61675012384332">
+			<name>punkt 299</name>
+		</rtept>
+		<rtept lon="20.96755963118729" lat="49.61877668232032">
+			<name>punkt 300</name>
+		</rtept>
+		<rtept lon="20.966661047901145" lat="49.620537606278035">
+			<name>punkt 301</name>
+		</rtept>
+		<rtept lon="20.96526547982979" lat="49.6213081642882">
+			<name>punkt 302</name>
+		</rtept>
+		<rtept lon="20.960518127707164" lat="49.622081547027456">
+			<name>punkt 303</name>
+		</rtept>
+		<rtept lon="20.95550986989244" lat="49.624298851672535">
+			<name>punkt 304</name>
+		</rtept>
+		<rtept lon="20.95496787631853" lat="49.62425401963294">
+			<name>punkt 305</name>
+		</rtept>
+		<rtept lon="20.953454424376833" lat="49.6234697401872">
+			<name>punkt 306</name>
+		</rtept>
+		<rtept lon="20.952449551235873" lat="49.623972599305375">
+			<name>punkt 307</name>
+		</rtept>
+		<rtept lon="20.951975498700357" lat="49.62493440256486">
+			<name>punkt 308</name>
+		</rtept>
+		<rtept lon="20.95424348567377" lat="49.626227856531">
+			<name>punkt 309</name>
+		</rtept>
+		<rtept lon="20.9560638442508" lat="49.62602613777266">
+			<name>punkt 310</name>
+		</rtept>
+		<rtept lon="20.95736725581791" lat="49.6267509487523">
+			<name>punkt 311</name>
+		</rtept>
+	</rte>
+</gpx>

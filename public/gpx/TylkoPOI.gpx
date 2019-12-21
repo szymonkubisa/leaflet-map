@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="51.5045502" lon="19.7130182">
+		<name>Moszczenica, kościół PSK</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.5030767" lon="19.7003083">
+		<name>PKP Moszczenica</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.505436" lon="19.8309664">
+		<name>Kościół SM XV</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.5018297" lon="19.8310737">
+		<name>Muzeum Pożarnictwa</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4957785" lon="19.8353223">
+		<name>pałac biskupów kujawskich</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.5111555" lon="19.8389728">
+		<name>Cmentarz I/II WW</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4598582" lon="19.7818183">
+		<name>Muzeum partyzanckie</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4378424" lon="19.8124618">
+		<name>Leśna Osada Edukacyjna</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.438749" lon="19.8100816">
+		<name>Ława turystyczna</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4436844" lon="19.7979366">
+		<name>Ława turystyczna</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4601317" lon="19.7827624">
+		<name>Pomnik II WW</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4608269" lon="19.7800588">
+		<name>Hotel Górski</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4593295" lon="19.7810029">
+		<name>Hotel Złoty Młyn</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4474951" lon="19.7547375">
+		<name>Leśniczówka Meszcze</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.456486" lon="19.923123">
+		<name>Leśniczówka Swolszewice</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4021017" lon="19.8570478">
+		<name>Miejsce widokowe</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3994243" lon="19.8457182">
+		<name>Miejsce widokowe</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4215571" lon="19.7209827">
+		<name>Leśniczówka Wierzeje</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4238713" lon="19.7138671">
+		<name>Pomnik II WW</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4199853" lon="19.7452286">
+		<name>Leśniczówka Wierzeje</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4079589" lon="19.6974508">
+		<name>Stare Miasto</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3768271" lon="19.7590921">
+		<name>klasztor norbetanów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3575582" lon="19.797336">
+		<name>Luciąża</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3582334" lon="19.8710766">
+		<name>ruiny pieców wapienych</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3518582" lon="19.8795864">
+		<name>kościół SF</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3639348" lon="19.8800323">
+		<name>klasztor cystersów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.365174" lon="19.8796246">
+		<name>hotel Podklasztorze</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4174864" lon="19.9243866">
+		<name>Zarzęcin wioska żeglarska</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3213609" lon="19.8359956">
+		<name>Nadleśnictwo Piotrków</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3046302" lon="19.8539628">
+		<name>Uroczysko Kaleń</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.291609" lon="19.8520189">
+		<name>pomnik partyzancki</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2952527" lon="19.8944752">
+		<name>Leśniczówka Biała</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3239064" lon="19.9015127">
+		<name>Pole namiotowe YMCA</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3188464" lon="19.9234096">
+		<name>pomnik ofiar 1943</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2633428" lon="19.8700555">
+		<name>Leśniczówka Grzegorzówka</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2438185" lon="19.8919913">
+		<name>Młyny wodne Dolna Wieś</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2452879" lon="19.8738338">
+		<name>Młyn wodny Dolna Wieś</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2099126" lon="19.8549681">
+		<name>Rezerwat Wielkopole</name>
+	</wpt>
+	<wpt lat="51.1904314" lon="19.85625">
+		<name>kościół św. Stanisława Ręczno</name>
+	</wpt>
+	<wpt lat="51.2008988" lon="19.9330299">
+		<name>Skotniki kościół?</name>
+	</wpt>
+	<wpt lat="51.1845331" lon="19.808076">
+		<name>Dwór Łęki Szlacheckie</name>
+	</wpt>
+	<wpt lat="51.1899603" lon="19.8283005">
+		<name>Łęki Królewskie miejsce widokowe</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.1938869" lon="19.8547712">
+		<name>Ręczno mogły powstańców 1863</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.1994867" lon="19.8174557">
+		<name>Leśniczówka Felicja</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.1991102" lon="19.8179921">
+		<name>miejsce odpoczynku</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.209195" lon="19.7231193">
+		<name>Dwór Trzepnica</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.1960266" lon="19.7173711">
+		<name>kościół ZDS Bęczkowice</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2351973" lon="19.6957073">
+		<name>przystań Jezioro Cieszanowickie</name>
+	</wpt>
+	<wpt lat="51.1990927" lon="19.6771985">
+		<name>Obszar Natura 2000</name>
+	</wpt>
+	<wpt lat="51.1540703" lon="19.600798">
+		<name>Miejsce widokowe Kopaliny Klizińskie</name>
+	</wpt>
+	<wpt lat="51.1809006" lon="19.5733739">
+		<name>Obszar Natura 2000 Lasy Gorzkowickie</name>
+	</wpt>
+	<wpt lat="51.2125122" lon="19.5990345">
+		<name>Miejsce widokowe Gorzkowice</name>
+	</wpt>
+	<wpt lat="51.2161951" lon="19.6037122">
+	</wpt>
+	<wpt lat="51.2155768" lon="19.596996">
+		<name>kościół NSPJ Gorzkowice</name>
+	</wpt>
+	<wpt lat="51.2159061" lon="19.5954296">
+		<name>synagoga Gorzkowice</name>
+	</wpt>
+	<wpt lat="51.2332373" lon="19.659293">
+		<name>Dwór Cieszanowice</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2569973" lon="19.6722814">
+		<name>kosciół św. Mikołaja i NMP Mierzyn</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2941739" lon="19.6978215">
+		<name>Dwór Straszów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3015942" lon="19.6666077">
+		<name>grodzisko XII w. Rozprza / Łochyńsko</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3487203" lon="19.7069854">
+		<name>kościół MM</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.348975" lon="19.7119548">
+		<name>dwór Milejów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3022814" lon="19.6442027">
+		<name>kościół NMP Rozprza</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3012031" lon="19.642242">
+		<name>dawna synagoga Rozprza</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2779899" lon="19.648569">
+		<name>PKP Stara Wieś</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3011071" lon="19.659746">
+		<name>PKP Rozprza</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.354709" lon="19.6755114">
+		<name>PKP Milejów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.410521" lon="19.684733">
+		<name>PKP Piotrków</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4607575" lon="19.693172">
+		<name>PKP Jarosty</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2075967" lon="19.5458535">
+		<name>zabytkowy lamus Gorzędów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2706125" lon="19.5808817">
+		<name>palac krugiera Niechcice</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2783422" lon="19.5757128">
+		<name>dawny kościół ewangelicki</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3181394" lon="19.5813113">
+		<name>zabytkowy spichlerz xviii Denysowo Regułówka</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3444884" lon="19.5878855">
+		<name>dwór XIX Wola Krzysztoporska</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.2947564" lon="19.5225201">
+		<name>Dwór w Parzniewicach</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3209279" lon="19.4855911">
+		<name>Miejsce widokowe Borowa Lucynów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.320606" lon="19.4847327">
+		<name>pomnik walk 1939 Borowa Lucynów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.3801148" lon="19.5219463">
+		<name>Miejsce widokowe Mąkolice</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.402549" lon="19.6000668">
+		<name>dwór Rokszyce XIX w</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.399834" lon="19.6089074">
+		<name>grodzisko stożkowe Rokszyce II</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4205123" lon="19.6094706">
+		<name>pomnik II ww Majków Duży</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="51.4466501" lon="19.5889321">
+		<name>Dwór Szydłów</name>
+		<extensions>
+			<marker xmlns="http://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name>nadl_pol 1</name>
+		<desc>Length: 194.7 km (121 mi)</desc>
+		<trkseg>
+			<trkpt lat="51.5213575" lon="19.7222226"></trkpt>
+			<trkpt lat="51.5028862" lon="19.7193233"></trkpt>
+			<trkpt lat="51.5024914" lon="19.7265837"></trkpt>
+			<trkpt lat="51.5115434" lon="19.7263746"></trkpt>
+			<trkpt lat="51.5108412" lon="19.7357371"></trkpt>
+			<trkpt lat="51.499621" lon="19.7337817"></trkpt>
+			<trkpt lat="51.5004983" lon="19.7556804"></trkpt>
+			<trkpt lat="51.5048569" lon="19.7683496"></trkpt>
+			<trkpt lat="51.502269" lon="19.7935138"></trkpt>
+			<trkpt lat="51.503895" lon="19.8016619"></trkpt>
+			<trkpt lat="51.5074401" lon="19.8013646"></trkpt>
+			<trkpt lat="51.5060383" lon="19.7976471"></trkpt>
+			<trkpt lat="51.5133406" lon="19.7997222"></trkpt>
+			<trkpt lat="51.5155332" lon="19.8046599"></trkpt>
+			<trkpt lat="51.5100936" lon="19.8174722"></trkpt>
+			<trkpt lat="51.5119663" lon="19.8193269"></trkpt>
+			<trkpt lat="51.5071412" lon="19.8508082"></trkpt>
+			<trkpt lat="51.5041495" lon="19.8509913"></trkpt>
+			<trkpt lat="51.5048083" lon="19.8710363"></trkpt>
+			<trkpt lat="51.4981068" lon="19.8708348"></trkpt>
+			<trkpt lat="51.4828161" lon="19.8565875"></trkpt>
+			<trkpt lat="51.4758485" lon="19.8655335"></trkpt>
+			<trkpt lat="51.4679281" lon="19.8685382"></trkpt>
+			<trkpt lat="51.4693301" lon="19.8907823"></trkpt>
+			<trkpt lat="51.4673707" lon="19.8905722"></trkpt>
+			<trkpt lat="51.4663996" lon="19.908005"></trkpt>
+			<trkpt lat="51.4559843" lon="19.8999729"></trkpt>
+			<trkpt lat="51.4514505" lon="19.9085147"></trkpt>
+			<trkpt lat="51.4429481" lon="19.9020407"></trkpt>
+			<trkpt lat="51.4409354" lon="19.9139697"></trkpt>
+			<trkpt lat="51.4271004" lon="19.9359123"></trkpt>
+			<trkpt lat="51.4160116" lon="19.9105937"></trkpt>
+			<trkpt lat="51.4095908" lon="19.9032242"></trkpt>
+			<trkpt lat="51.411187" lon="19.8965415"></trkpt>
+			<trkpt lat="51.406572" lon="19.8953667"></trkpt>
+			<trkpt lat="51.4042175" lon="19.8655148"></trkpt>
+			<trkpt lat="51.396692" lon="19.861129"></trkpt>
+			<trkpt lat="51.3955633" lon="19.8546055"></trkpt>
+			<trkpt lat="51.3872178" lon="19.8652023"></trkpt>
+			<trkpt lat="51.3844458" lon="19.8509899"></trkpt>
+			<trkpt lat="51.3744835" lon="19.8476479"></trkpt>
+			<trkpt lat="51.3752047" lon="19.8550171"></trkpt>
+			<trkpt lat="51.3719557" lon="19.8549135"></trkpt>
+			<trkpt lat="51.3691453" lon="19.8650267"></trkpt>
+			<trkpt lat="51.3632183" lon="19.8637837"></trkpt>
+			<trkpt lat="51.3586535" lon="19.8823717"></trkpt>
+			<trkpt lat="51.3462568" lon="19.8815903"></trkpt>
+			<trkpt lat="51.3332" lon="19.8984483"></trkpt>
+			<trkpt lat="51.3295882" lon="19.8969263"></trkpt>
+			<trkpt lat="51.3308479" lon="19.9018209"></trkpt>
+			<trkpt lat="51.3237708" lon="19.9121127"></trkpt>
+			<trkpt lat="51.3242319" lon="19.9056371"></trkpt>
+			<trkpt lat="51.3184124" lon="19.9044426"></trkpt>
+			<trkpt lat="51.3172375" lon="19.9130464"></trkpt>
+			<trkpt lat="51.3092417" lon="19.914984"></trkpt>
+			<trkpt lat="51.3104214" lon="19.9124382"></trkpt>
+			<trkpt lat="51.3085107" lon="19.9134905"></trkpt>
+			<trkpt lat="51.3071745" lon="19.9073676"></trkpt>
+			<trkpt lat="51.2995935" lon="19.9026927"></trkpt>
+			<trkpt lat="51.2972335" lon="19.907807"></trkpt>
+			<trkpt lat="51.2933564" lon="19.9054365"></trkpt>
+			<trkpt lat="51.2838641" lon="19.9140073"></trkpt>
+			<trkpt lat="51.2774818" lon="19.9044469"></trkpt>
+			<trkpt lat="51.2698754" lon="19.9144157"></trkpt>
+			<trkpt lat="51.2646036" lon="19.9103906"></trkpt>
+			<trkpt lat="51.2631147" lon="19.9161954"></trkpt>
+			<trkpt lat="51.2585878" lon="19.9125467"></trkpt>
+			<trkpt lat="51.2510178" lon="19.9245548"></trkpt>
+			<trkpt lat="51.2468757" lon="19.9127602"></trkpt>
+			<trkpt lat="51.2542543" lon="19.9007472"></trkpt>
+			<trkpt lat="51.252335" lon="19.8930727"></trkpt>
+			<trkpt lat="51.2458189" lon="19.8947097"></trkpt>
+			<trkpt lat="51.2393453" lon="19.9078444"></trkpt>
+			<trkpt lat="51.2334419" lon="19.9098734"></trkpt>
+			<trkpt lat="51.2330783" lon="19.9044775"></trkpt>
+			<trkpt lat="51.2201756" lon="19.9066395"></trkpt>
+			<trkpt lat="51.2168033" lon="19.9018749"></trkpt>
+			<trkpt lat="51.2161468" lon="19.9074866"></trkpt>
+			<trkpt lat="51.1955051" lon="19.9202445"></trkpt>
+			<trkpt lat="51.1917018" lon="19.918976"></trkpt>
+			<trkpt lat="51.185508" lon="19.8870054"></trkpt>
+			<trkpt lat="51.1747351" lon="19.8712815"></trkpt>
+			<trkpt lat="51.1702227" lon="19.8703986"></trkpt>
+			<trkpt lat="51.1724041" lon="19.8488816"></trkpt>
+			<trkpt lat="51.16692" lon="19.8520704"></trkpt>
+			<trkpt lat="51.1690463" lon="19.8467233"></trkpt>
+			<trkpt lat="51.1663529" lon="19.8435902"></trkpt>
+			<trkpt lat="51.1754032" lon="19.8198521"></trkpt>
+			<trkpt lat="51.1668605" lon="19.8064774"></trkpt>
+			<trkpt lat="51.1645572" lon="19.8115225"></trkpt>
+			<trkpt lat="51.1552942" lon="19.8062188"></trkpt>
+			<trkpt lat="51.1654248" lon="19.7764943"></trkpt>
+			<trkpt lat="51.1627782" lon="19.7792358"></trkpt>
+			<trkpt lat="51.1586129" lon="19.7639935"></trkpt>
+			<trkpt lat="51.1713799" lon="19.7601393"></trkpt>
+			<trkpt lat="51.1675048" lon="19.7362678"></trkpt>
+			<trkpt lat="51.1734291" lon="19.7353638"></trkpt>
+			<trkpt lat="51.1720625" lon="19.7278685"></trkpt>
+			<trkpt lat="51.1749695" lon="19.7269386"></trkpt>
+			<trkpt lat="51.1735103" lon="19.7294299"></trkpt>
+			<trkpt lat="51.1772445" lon="19.7323382"></trkpt>
+			<trkpt lat="51.1873081" lon="19.7212834"></trkpt>
+			<trkpt lat="51.1855301" lon="19.717622"></trkpt>
+			<trkpt lat="51.1895655" lon="19.6980669"></trkpt>
+			<trkpt lat="51.1631813" lon="19.6976181"></trkpt>
+			<trkpt lat="51.1550416" lon="19.6784275"></trkpt>
+			<trkpt lat="51.1512988" lon="19.6779913"></trkpt>
+			<trkpt lat="51.1522917" lon="19.6714602"></trkpt>
+			<trkpt lat="51.155684" lon="19.6727924"></trkpt>
+			<trkpt lat="51.157822" lon="19.6382183"></trkpt>
+			<trkpt lat="51.1492362" lon="19.6210505"></trkpt>
+			<trkpt lat="51.1546478" lon="19.5991571"></trkpt>
+			<trkpt lat="51.1490435" lon="19.5945156"></trkpt>
+			<trkpt lat="51.1482972" lon="19.5792413"></trkpt>
+			<trkpt lat="51.1594749" lon="19.5894113"></trkpt>
+			<trkpt lat="51.1619402" lon="19.5850276"></trkpt>
+			<trkpt lat="51.1726404" lon="19.5824918"></trkpt>
+			<trkpt lat="51.1739991" lon="19.572778"></trkpt>
+			<trkpt lat="51.1751807" lon="19.5787833"></trkpt>
+			<trkpt lat="51.1745887" lon="19.5726488"></trkpt>
+			<trkpt lat="51.1797295" lon="19.5673557"></trkpt>
+			<trkpt lat="51.1775722" lon="19.5803927"></trkpt>
+			<trkpt lat="51.1844361" lon="19.5747624"></trkpt>
+			<trkpt lat="51.1859554" lon="19.5682872"></trkpt>
+			<trkpt lat="51.1805475" lon="19.5683637"></trkpt>
+			<trkpt lat="51.1877124" lon="19.5682667"></trkpt>
+			<trkpt lat="51.1867032" lon="19.5721635"></trkpt>
+			<trkpt lat="51.2004413" lon="19.5713591"></trkpt>
+			<trkpt lat="51.1977477" lon="19.5554543"></trkpt>
+			<trkpt lat="51.2088445" lon="19.5565855"></trkpt>
+			<trkpt lat="51.2103239" lon="19.5470749"></trkpt>
+			<trkpt lat="51.2134698" lon="19.5516456"></trkpt>
+			<trkpt lat="51.222678" lon="19.5376979"></trkpt>
+			<trkpt lat="51.2224496" lon="19.5234908"></trkpt>
+			<trkpt lat="51.2310727" lon="19.5126081"></trkpt>
+			<trkpt lat="51.2483113" lon="19.5255264"></trkpt>
+			<trkpt lat="51.2657428" lon="19.5315097"></trkpt>
+			<trkpt lat="51.2713058" lon="19.5191196"></trkpt>
+			<trkpt lat="51.2682327" lon="19.5176877"></trkpt>
+			<trkpt lat="51.2696398" lon="19.5085812"></trkpt>
+			<trkpt lat="51.2648228" lon="19.5064017"></trkpt>
+			<trkpt lat="51.2597596" lon="19.493734"></trkpt>
+			<trkpt lat="51.2675592" lon="19.4972851"></trkpt>
+			<trkpt lat="51.2662401" lon="19.5000136"></trkpt>
+			<trkpt lat="51.2728913" lon="19.5024709"></trkpt>
+			<trkpt lat="51.2751265" lon="19.4819123"></trkpt>
+			<trkpt lat="51.2860252" lon="19.459866"></trkpt>
+			<trkpt lat="51.3041628" lon="19.4794374"></trkpt>
+			<trkpt lat="51.3075788" lon="19.4876358"></trkpt>
+			<trkpt lat="51.3191489" lon="19.4797947"></trkpt>
+			<trkpt lat="51.3204766" lon="19.4843432"></trkpt>
+			<trkpt lat="51.320393" lon="19.4790165"></trkpt>
+			<trkpt lat="51.3301708" lon="19.4722159"></trkpt>
+			<trkpt lat="51.3423102" lon="19.484296"></trkpt>
+			<trkpt lat="51.3405044" lon="19.4737746"></trkpt>
+			<trkpt lat="51.3458111" lon="19.4692256"></trkpt>
+			<trkpt lat="51.3464647" lon="19.4787745"></trkpt>
+			<trkpt lat="51.3512831" lon="19.4825031"></trkpt>
+			<trkpt lat="51.3504269" lon="19.4892067"></trkpt>
+			<trkpt lat="51.3546647" lon="19.4867738"></trkpt>
+			<trkpt lat="51.3529775" lon="19.4910894"></trkpt>
+			<trkpt lat="51.3558765" lon="19.4921301"></trkpt>
+			<trkpt lat="51.3549472" lon="19.4965091"></trkpt>
+			<trkpt lat="51.3704486" lon="19.4987732"></trkpt>
+			<trkpt lat="51.383436" lon="19.4755361"></trkpt>
+			<trkpt lat="51.4017428" lon="19.4655265"></trkpt>
+			<trkpt lat="51.4078468" lon="19.4884095"></trkpt>
+			<trkpt lat="51.4149341" lon="19.4913167"></trkpt>
+			<trkpt lat="51.4172234" lon="19.4777713"></trkpt>
+			<trkpt lat="51.4311654" lon="19.4778511"></trkpt>
+			<trkpt lat="51.4362666" lon="19.4820752"></trkpt>
+			<trkpt lat="51.4430575" lon="19.474198"></trkpt>
+			<trkpt lat="51.4403316" lon="19.5101574"></trkpt>
+			<trkpt lat="51.4457231" lon="19.5137745"></trkpt>
+			<trkpt lat="51.4427095" lon="19.5181098"></trkpt>
+			<trkpt lat="51.4398126" lon="19.5137756"></trkpt>
+			<trkpt lat="51.4557924" lon="19.5311549"></trkpt>
+			<trkpt lat="51.4548194" lon="19.5427978"></trkpt>
+			<trkpt lat="51.4630374" lon="19.6005714"></trkpt>
+			<trkpt lat="51.4596808" lon="19.6002079"></trkpt>
+			<trkpt lat="51.4591634" lon="19.6121613"></trkpt>
+			<trkpt lat="51.4648127" lon="19.6133432"></trkpt>
+			<trkpt lat="51.4640979" lon="19.6225636"></trkpt>
+			<trkpt lat="51.4718477" lon="19.6241797"></trkpt>
+			<trkpt lat="51.4722332" lon="19.6189437"></trkpt>
+			<trkpt lat="51.4782867" lon="19.6202069"></trkpt>
+			<trkpt lat="51.4768503" lon="19.6419743"></trkpt>
+			<trkpt lat="51.496468" lon="19.6461115"></trkpt>
+			<trkpt lat="51.4976129" lon="19.6752882"></trkpt>
+			<trkpt lat="51.508486" lon="19.6729821"></trkpt>
+			<trkpt lat="51.5101129" lon="19.6915082"></trkpt>
+			<trkpt lat="51.5129332" lon="19.692279"></trkpt>
+			<trkpt lat="51.512384" lon="19.6996029"></trkpt>
+			<trkpt lat="51.5221145" lon="19.7057309"></trkpt>
+			<trkpt lat="51.5225004" lon="19.722425"></trkpt>
+			<trkpt lat="51.5213575" lon="19.7222226"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>nadl_pol 2</name>
+		<desc>Length:</desc>
+		<trkseg>
+			<trkpt lat="51.4186691" lon="19.8271221"></trkpt>
+			<trkpt lat="51.4186691" lon="19.8271221"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>nadl_pol 3</name>
+		<desc>Length:</desc>
+		<trkseg>
+			<trkpt lat="51.4185835" lon="19.8286421"></trkpt>
+			<trkpt lat="51.4185835" lon="19.8286421"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

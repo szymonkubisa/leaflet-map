@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<trk>
+		<name>RW1Czarny</name>
+		<desc>Length: 8.413 km (5.228 mi)</desc>
+		<trkseg>
+			<trkpt lat="51.4944456" lon="19.8335347"></trkpt>
+			<trkpt lat="51.4944857" lon="19.8331699"></trkpt>
+			<trkpt lat="51.4943788" lon="19.8329768"></trkpt>
+			<trkpt lat="51.4941784" lon="19.8330197"></trkpt>
+			<trkpt lat="51.4939513" lon="19.8329553"></trkpt>
+			<trkpt lat="51.4936841" lon="19.8327836"></trkpt>
+			<trkpt lat="51.4933768" lon="19.8326764"></trkpt>
+			<trkpt lat="51.4930829" lon="19.8327193"></trkpt>
+			<trkpt lat="51.4928291" lon="19.8327622"></trkpt>
+			<trkpt lat="51.4925886" lon="19.8328909"></trkpt>
+			<trkpt lat="51.4923081" lon="19.8331055"></trkpt>
+			<trkpt lat="51.4919874" lon="19.8332986"></trkpt>
+			<trkpt lat="51.4917469" lon="19.8336419"></trkpt>
+			<trkpt lat="51.4915599" lon="19.8340496"></trkpt>
+			<trkpt lat="51.491306" lon="19.8343286"></trkpt>
+			<trkpt lat="51.4912927" lon="19.8346934"></trkpt>
+			<trkpt lat="51.4914129" lon="19.8349509"></trkpt>
+			<trkpt lat="51.4914931" lon="19.8357019"></trkpt>
+			<trkpt lat="51.4915332" lon="19.8361954"></trkpt>
+			<trkpt lat="51.4913996" lon="19.8371395"></trkpt>
+			<trkpt lat="51.4912927" lon="19.8381051"></trkpt>
+			<trkpt lat="51.4911858" lon="19.8391995"></trkpt>
+			<trkpt lat="51.4907004" lon="19.8400747"></trkpt>
+			<trkpt lat="51.4900992" lon="19.8409545"></trkpt>
+			<trkpt lat="51.4891773" lon="19.8420274"></trkpt>
+			<trkpt lat="51.4884023" lon="19.8426711"></trkpt>
+			<trkpt lat="51.4876541" lon="19.843465"></trkpt>
+			<trkpt lat="51.4872934" lon="19.8439371"></trkpt>
+			<trkpt lat="51.4868792" lon="19.8444521"></trkpt>
+			<trkpt lat="51.4865852" lon="19.8446452"></trkpt>
+			<trkpt lat="51.4853693" lon="19.845482"></trkpt>
+			<trkpt lat="51.4847413" lon="19.8459327"></trkpt>
+			<trkpt lat="51.48414" lon="19.8463833"></trkpt>
+			<trkpt lat="51.4833516" lon="19.847027"></trkpt>
+			<trkpt lat="51.4827903" lon="19.8474776"></trkpt>
+			<trkpt lat="51.4820955" lon="19.8480355"></trkpt>
+			<trkpt lat="51.4815743" lon="19.848572"></trkpt>
+			<trkpt lat="51.4801043" lon="19.8504817"></trkpt>
+			<trkpt lat="51.4793292" lon="19.8510396"></trkpt>
+			<trkpt lat="51.4783403" lon="19.8516404"></trkpt>
+			<trkpt lat="51.4748655" lon="19.8533141"></trkpt>
+			<trkpt lat="51.4739567" lon="19.8538291"></trkpt>
+			<trkpt lat="51.4731815" lon="19.8543441"></trkpt>
+			<trkpt lat="51.4723261" lon="19.8545157"></trkpt>
+			<trkpt lat="51.470535" lon="19.8542153"></trkpt>
+			<trkpt lat="51.4690647" lon="19.8541724"></trkpt>
+			<trkpt lat="51.4683696" lon="19.8541724"></trkpt>
+			<trkpt lat="51.4674874" lon="19.8544299"></trkpt>
+			<trkpt lat="51.4664448" lon="19.8546445"></trkpt>
+			<trkpt lat="51.4657229" lon="19.8547732"></trkpt>
+			<trkpt lat="51.464092" lon="19.854902"></trkpt>
+			<trkpt lat="51.4615252" lon="19.8546445"></trkpt>
+			<trkpt lat="51.459092" lon="19.8544728"></trkpt>
+			<trkpt lat="51.4575144" lon="19.8543012"></trkpt>
+			<trkpt lat="51.4528078" lon="19.8596656"></trkpt>
+			<trkpt lat="51.4522195" lon="19.8602235"></trkpt>
+			<trkpt lat="51.4491706" lon="19.8627555"></trkpt>
+			<trkpt lat="51.4478601" lon="19.8626696"></trkpt>
+			<trkpt lat="51.4465495" lon="19.8646437"></trkpt>
+			<trkpt lat="51.4445702" lon="19.8678195"></trkpt>
+			<trkpt lat="51.4428851" lon="19.871124"></trkpt>
+			<trkpt lat="51.4403706" lon="19.8727118"></trkpt>
+			<trkpt lat="51.4399158" lon="19.8728406"></trkpt>
+			<trkpt lat="51.4392738" lon="19.872626"></trkpt>
+			<trkpt lat="51.4386585" lon="19.8735272"></trkpt>
+			<trkpt lat="51.4380165" lon="19.8737847"></trkpt>
+			<trkpt lat="51.4358496" lon="19.8748147"></trkpt>
+			<trkpt lat="51.4340303" lon="19.8758447"></trkpt>
+			<trkpt lat="51.4321575" lon="19.8767459"></trkpt>
+			<trkpt lat="51.4302311" lon="19.8791062"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
