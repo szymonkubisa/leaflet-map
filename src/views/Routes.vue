@@ -143,7 +143,7 @@
           <slide v-for="(route, index) in routesInCat" :key="index">
             <div
               class="hooper-slide-inner"
-              :style="{ backgroundImage: 'url(https://ziemiasadecka.appen.pl/photo/102' + index +  '.jpg)' }"
+              :style="{ backgroundImage: 'url(https://ziemiasadecka.appen.pl/photo/' + route.gsx$img['$t'] +  '.jpg)' }"
             >
               <div class="gradient">
                 <h5>{{ route.gsx$name['$t'] }}</h5>
